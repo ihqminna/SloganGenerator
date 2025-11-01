@@ -1,1 +1,3 @@
 # SloganGenerator
+
+Tehdään sloganeita jee!
