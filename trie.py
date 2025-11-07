@@ -61,6 +61,9 @@ def text_to_sentences(text):
             for c in word:
                 if c.isalpha() or c == "ä" or c =="ö":
                     checked_word = checked_word + c
-            checked_words.append(checked_word)
+                else:
+                    checked_word = ""
+                    break
+            if checked_word: checked_words.append(checked_word)
         sentences2.append(checked_words)
     return sentences2
