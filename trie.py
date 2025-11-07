@@ -55,8 +55,12 @@ def text_to_sentences(text):
     for s in sentences:
         words = re.split(r'[, ]', s)
         words = [word for word in words if word]
-        sentences2.append(words)
-        """Check that words include only letters
-            c.isalpha() or c == "ä" or c =="ö":
-                word = word + c"""
+        checked_words = []
+        for word in words:
+            checked_word = ""
+            for c in word:
+                if c.isalpha() or c == "ä" or c =="ö":
+                    checked_word = checked_word + c
+            checked_words.append(checked_word)
+        sentences2.append(checked_words)
     return sentences2
