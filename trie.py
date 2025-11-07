@@ -1,3 +1,5 @@
+import re
+
 class Node:
     """Class for nodes in Trie."""
 
@@ -39,3 +41,22 @@ class Trie:
 
     def starts_with(self, word):
         pass
+
+def train_markov_chain(text):
+    """Divide text into sentences and create a Markov chain based on them."""
+    sentences = text_to_sentences(text)
+    print(sentences)
+
+def text_to_sentences(text):
+    sentences = re.split(r'[.!?]', text)
+    sentences = [s for s in sentences if s]
+    sentences2 = []
+    word = ""
+    for s in sentences:
+        words = re.split(r'[, ]', s)
+        words = [word for word in words if word]
+        sentences2.append(words)
+        """Check that words include only letters
+            c.isalpha() or c == "ä" or c =="ö":
+                word = word + c"""
+    return sentences2
