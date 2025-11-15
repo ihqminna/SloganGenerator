@@ -6,13 +6,13 @@ class Node:
     def __init__(self):
         """Initializes new node."""
         self.children = dict()
-        self.is_end_of_word = False
+        self.frequency = 0
 
 class Trie:
     """Class for Trie structure and it's functions."""
 
     def __init__(self):
-        """Initializes new root node."""
+        """Initializes new Trie structure."""
         self.root = Node()
 
     def insert(self, sentence):
@@ -42,21 +42,18 @@ class Trie:
     def starts_with(self, word):
         pass
 
-def train_markov_chain(text):
+def train_markov_chain(text, degree):
     """Divide text into sentences and create a Markov chain based on them."""
     sentences = text_to_sentences(text)
     print(sentences)
 
 def text_to_sentences(text):
-    sentences = re.split(r'[.!?]', text)
-    sentences = [s for s in sentences if s]
-    sentences2 = []
-    word = ""
+    sentences = re.split(r'[.!?,-]', text)
+    checked_sentences = []
     for s in sentences:
-        words = re.split(r'[, ]', s)
-        words = [word for word in words if word]
+        words = s.split()
         checked_words = []
-        for word in words:
+        for word in (w for w in words if w):
             checked_word = ""
             for c in word:
                 if c.isalpha() or c == "ä" or c =="ö":
@@ -65,5 +62,6 @@ def text_to_sentences(text):
                     checked_word = ""
                     break
             if checked_word: checked_words.append(checked_word)
-        sentences2.append(checked_words)
-    return sentences2
+        checked_sentences.append(checked_words)
+    checked_sentences = [s for s in checked_sentences if s]
+    return checked_sentences
