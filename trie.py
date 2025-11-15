@@ -1,11 +1,13 @@
 import re
 
+text = "Istuin puun alla ja mietiskelin. Moi, ?? ##00sanoi fsf08098sas8 naapuri. Moi moi, sanoin minä."
+
 class Node:
     """Class for nodes in Trie."""
 
     def __init__(self):
         """Initializes new node."""
-        self.children = dict()
+        self.children = {}
         self.frequency = 0
 
 class Trie:
@@ -15,39 +17,42 @@ class Trie:
         """Initializes new Trie structure."""
         self.root = Node()
 
-    def insert(self, sentence):
+    def insert_sentence(self, sentence):
         """"""
         current_node = self.root
         for word in sentence:
-            if word in current_node.children:
+            if word not in current_node.children:
                 current_node.children[word] = Node()
             current_node = current_node.children[word]
-        current_node.is_end_of_sentence = True
+            self.frequency += 1
 
-    def search(self, word):
+    def get_children(self, words):
         """Looks up for a word in Trie.
         Args:
             word = word to look for
 
         Returns:
-            True if word was found, else False.
+            Children of a node.
         """
         current_node = self.root
-        for c in word:
-            if c not in current_node.children:
+        for w in words:
+            if w not in current_node.children:
                 return False
-            current_node = current_node.children[c] 
-        return current_node.is_end_of_word
+            current_node = current_node.children[w] 
+        return current_node
+    
+    def create_trie(self, sentences, degree):
+        """"""
+        for s in sentences:
+            Trie.insert_sentence(s)
 
-    def starts_with(self, word):
-        pass
+    def train_markov_chain(degree):
+        """Divide text into sentences and create a Markov chain based on them."""
+        sentences = text_to_sentences()
+        trie.create_trie(self, sentences, degree)
 
-def train_markov_chain(text, degree):
-    """Divide text into sentences and create a Markov chain based on them."""
-    sentences = text_to_sentences(text)
-    print(sentences)
-
-def text_to_sentences(text):
+def text_to_sentences():
+    """Split text into sentences and words."""
     sentences = re.split(r'[.!?,-]', text)
     checked_sentences = []
     for s in sentences:
