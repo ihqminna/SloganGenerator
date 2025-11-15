@@ -1,11 +1,21 @@
-# SloganGenerator
+# Luontolausegeneraattori
 
-Tehdään sloganeita jee!
+Tehdään lauseita jee!
 
-Kuvaus
+## Toiminnallisuudet
 
-Harjoitusdatan tekstien lähteet:
-- Pentti Linkolan ympäristöaiheisiakirjoituksia: https://ikihonka.blogspot.com/
+Sovelluksen on tarkoitus sisältää seuraavat toiminnallisuudet:
+- Luo lausegeneraattori harjoitusdatan pohjalta
+- Rakentaa lauseita aineiston opittujen ketjujen perusteella
+    - Käyttäjä määrittää Markovin ketjujen asteen
+    - Käyttäjä määrittää lauseiden pituuden
+
+## Harjoitusdata
+
+Harjoitusdata sisältää ympäristöaiheisia tekstejä. Ne liittyvät ympäristöaktivismiin tai sukupuuttoihin, jotta niiden pohjalta voidaan muodostaa vaikuttavia lauseita luontoon liittyen.
+
+### Harjoitusdatan tekstien lähteet:
+- Pentti Linkolan ympäristöaiheisia kirjoituksia: https://ikihonka.blogspot.com/
 - Pentti Linkolan teksti 1988: https://suomenluonto.fi/artikkelit/pentti-linkola-1988-luonnonystavan-elamankerta/
 - Elokapinan verkkosivujen tekstit: https://elokapina.fi/
 - Greenpeacen suomenkieliset
