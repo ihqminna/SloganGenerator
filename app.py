@@ -8,13 +8,11 @@ def main():
     print("Entä monenko sanan pituisia lauseita?")
     length = input() #tarkista että validi
     print("Luodaan siis " + length + " sanan pituisia lauseita asteella " + degree)
-    slogan = trie.train_markov_chain(degree)
-    #phrases = trie.generate_phrase(length)
-    print(slogan)
+    trie.train_markov_chain(degree)
+    #phrases = generate_phrases(length)
 
-def generate_phrase(length):
-    slogan = trie.starts_with(length)
-    return slogan
+def generate_phrases(length):
+    pass
     
 if __name__ == "__main__":
     main()

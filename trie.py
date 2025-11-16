@@ -1,6 +1,6 @@
 import re
 
-text = "Istuin puun alla ja mietiskelin. Moi, ?? ##00sanoi fsf08098sas8 naapuri. Moi moi, sanoin minä."
+text = "Istuin puun alla ja mietiskelin. Moi, ?? ##00sanoi fsf08098sas8 naapuri. Moi moi, Moi naapuri sanoin minä."
 
 class Node:
     """Class for nodes in Trie."""
@@ -18,12 +18,17 @@ class Node:
         Returns:
             Children of a node.
         """
-        current_node = self.root
-        for w in words:
-            if w not in current_node.children:
-                return False
-            current_node = current_node.children[w] 
-        return current_node
+        current_node = self
+        if not current_node.children:
+            return None, None
+        children_words = tuple()
+        children_frequencies = tuple()
+        for child in current_node.children:
+            word = (child,)
+            frequency = (current_node.children[child].frequency,)
+            children_words += (word)
+            children_frequencies += (frequency)
+        return children_words, children_frequencies
 
 class Trie:
     """Class for Trie structure."""
@@ -46,8 +51,22 @@ def create_trie(sentences, degree):
     trained_trie = Trie()
     for s in sentences:
         Trie.insert_sentence(trained_trie, s)
+    children_words, children_frequencies = Node.get_children(trained_trie.root)
+    print(children_words)
+    print(children_frequencies)
     for child in trained_trie.root.children:
+        children_words, children_frequencies = Node.get_children(trained_trie.root.children[child])
+        print(child)
+        print(children_words)
+        print(children_frequencies)
+    """
+    for child in trained_trie.root.children:
+        print(trained_trie.root.children[child])
         print(trained_trie.root.children[child].frequency)
+        for grandchild in trained_trie.root.children[child].children:
+            print(trained_trie.root.children[child].children[grandchild])
+            print(trained_trie.root.children[grandchild].frequency)
+    """
 
 def train_markov_chain(degree):
     """Divide text into sentences and create a Markov chain based on them."""
