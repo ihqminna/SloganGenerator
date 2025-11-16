@@ -10,23 +10,7 @@ class Node:
         self.children = {}
         self.frequency = 0
 
-class Trie:
-    """Class for Trie structure and it's functions."""
-
-    def __init__(self):
-        """Initializes new Trie structure."""
-        self.root = Node()
-
-    def insert_sentence(self, sentence):
-        """"""
-        current_node = self.root
-        for word in sentence:
-            if word not in current_node.children:
-                current_node.children[word] = Node()
-            current_node = current_node.children[word]
-            self.frequency += 1
-
-    def get_children(self, words):
+    def get_children(self):
         """Looks up for a word in Trie.
         Args:
             word = word to look for
@@ -40,16 +24,36 @@ class Trie:
                 return False
             current_node = current_node.children[w] 
         return current_node
-    
-    def create_trie(self, sentences, degree):
-        """"""
-        for s in sentences:
-            Trie.insert_sentence(s)
 
-    def train_markov_chain(degree):
-        """Divide text into sentences and create a Markov chain based on them."""
-        sentences = text_to_sentences()
-        trie.create_trie(self, sentences, degree)
+class Trie:
+    """Class for Trie structure."""
+
+    def __init__(self):
+        """Initializes new Trie structure."""
+        self.root = Node()
+
+    def insert_sentence(self, sentence):
+        """"""
+        current_node = self.root
+        for word in sentence:
+            if word not in current_node.children:
+                current_node.children[word] = Node()
+            current_node = current_node.children[word]
+            current_node.frequency += 1
+    
+def create_trie(sentences, degree):
+    """"""
+    trained_trie = Trie()
+    for s in sentences:
+        Trie.insert_sentence(trained_trie, s)
+    for child in trained_trie.root.children:
+        print(trained_trie.root.children[child].frequency)
+
+def train_markov_chain(degree):
+    """Divide text into sentences and create a Markov chain based on them."""
+    sentences = text_to_sentences()
+    print(sentences)
+    create_trie(sentences, degree)
 
 def text_to_sentences():
     """Split text into sentences and words."""
