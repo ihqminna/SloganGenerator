@@ -1,7 +1,5 @@
 import re
 
-text = "Istuin puun alla ja mietiskelin. Moi, ?? ##00sanoi fsf08098sas8 naapuri. Moi moi, Moi naapuri sanoin minä."
-
 class Node:
     """Class for nodes in Trie."""
 
@@ -70,11 +68,18 @@ def create_trie(sentences, degree):
 
 def train_markov_chain(degree):
     """Divide text into sentences and create a Markov chain based on them."""
-    sentences = text_to_sentences()
-    print(sentences)
+    sentences = get_training_data()
     create_trie(sentences, degree)
 
-def text_to_sentences():
+def get_training_data():
+    data = open("testidata.txt", "r", encoding="utf-8")
+    raw_text = data.read()
+    print(raw_text)
+    sentences = text_to_sentences(raw_text)
+    data.close()
+    return sentences
+
+def text_to_sentences(text):
     """Split text into sentences and words."""
     sentences = re.split(r'[.!?,-]', text)
     checked_sentences = []
