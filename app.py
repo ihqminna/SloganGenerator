@@ -4,10 +4,12 @@ import trie
 
 def main():
     print("Luodaanpas uusia lauseita! Mitä astetta haluat käyttää?")
-    degree = input() #tarkista että validi
+    degree_str = input() #tarkista että validi
+    degree = int(degree_str)
     print("Entä monenko sanan pituisia lauseita?")
-    length = input() #tarkista että validi
-    print("Luodaan siis " + length + " sanan pituisia lauseita asteella " + degree)
+    length_str = input() #tarkista että validi
+    length = int(length_str)
+    print("Luodaan siis " + length_str + " sanan pituisia lauseita asteella " + degree_str)
     trie.train_markov_chain(degree)
     #phrases = generate_phrases(length)
 

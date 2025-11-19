@@ -45,18 +45,30 @@ class Trie:
             current_node.frequency += 1
     
 def create_trie(sentences, degree):
-    """"""
+    """Creates a trie and saves sentences to it based on the degree as a parameter."""
     trained_trie = Trie()
+    #Need to create sequences in the middle of the phrase too
+    #Need to acknowledge the degree
+    for s in sentences:
+        i = 0
+        while i < len(s) - degree:
+            sentence_to_insert = []
+            x = i
+            while x <= degree + i:
+                sentence_to_insert.append(s[x])
+                x += 1
+            print(sentence_to_insert)
+            Trie.insert_sentence(trained_trie, sentence_to_insert)
+            i += 1
+    """
     for s in sentences:
         Trie.insert_sentence(trained_trie, s)
+    """
     children_words, children_frequencies = Node.get_children(trained_trie.root)
     print(children_words)
     print(children_frequencies)
     for child in trained_trie.root.children:
         children_words, children_frequencies = Node.get_children(trained_trie.root.children[child])
-        print(child)
-        print(children_words)
-        print(children_frequencies)
     """
     for child in trained_trie.root.children:
         print(trained_trie.root.children[child])
@@ -74,13 +86,13 @@ def train_markov_chain(degree):
 def get_training_data():
     data = open("testidata.txt", "r", encoding="utf-8")
     raw_text = data.read()
-    print(raw_text)
     sentences = text_to_sentences(raw_text)
     data.close()
     return sentences
 
 def text_to_sentences(text):
     """Split text into sentences and words."""
+    text = text.lower()
     sentences = re.split(r'[.!?,-]', text)
     checked_sentences = []
     for s in sentences:
