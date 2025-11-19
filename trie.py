@@ -47,8 +47,6 @@ class Trie:
 def create_trie(sentences, degree):
     """Creates a trie and saves sentences to it based on the degree as a parameter."""
     trained_trie = Trie()
-    #Need to create sequences in the middle of the phrase too
-    #Need to acknowledge the degree
     for s in sentences:
         i = 0
         while i < len(s) - degree:
@@ -60,10 +58,6 @@ def create_trie(sentences, degree):
             print(sentence_to_insert)
             Trie.insert_sentence(trained_trie, sentence_to_insert)
             i += 1
-    """
-    for s in sentences:
-        Trie.insert_sentence(trained_trie, s)
-    """
     children_words, children_frequencies = Node.get_children(trained_trie.root)
     print(children_words)
     print(children_frequencies)
