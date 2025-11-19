@@ -10,7 +10,7 @@ def main():
     length_str = input() #tarkista että validi
     length = int(length_str)
     print("Luodaan siis " + length_str + " sanan pituisia lauseita asteella " + degree_str)
-    trie.train_markov_chain(degree)
+    trie.train_markov_chain(length, degree)
     #phrases = generate_phrases(length)
 
 def generate_phrases(length):

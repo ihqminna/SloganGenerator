@@ -1,4 +1,5 @@
 import re
+import random
 
 class Node:
     """Class for nodes in Trie."""
@@ -43,7 +44,17 @@ class Trie:
                 current_node.children[word] = Node()
             current_node = current_node.children[word]
             current_node.frequency += 1
-    
+
+    def get_sentence(self, length, degree):
+        sentence = ""
+        current_node = self.root
+        for i in range(length):
+            children_words, children_frequencies = Node.get_children(current_node)
+            word = random.choices(children_words, weights=children_frequencies, k=1)[0]
+            sentence = sentence + " " + word
+            current_node = current_node.children[word]
+        return sentence
+        
 def create_trie(sentences, degree):
     """Creates a trie and saves sentences to it based on the degree as a parameter."""
     trained_trie = Trie()
@@ -55,15 +66,12 @@ def create_trie(sentences, degree):
             while x <= degree + i:
                 sentence_to_insert.append(s[x])
                 x += 1
-            print(sentence_to_insert)
             Trie.insert_sentence(trained_trie, sentence_to_insert)
             i += 1
-    children_words, children_frequencies = Node.get_children(trained_trie.root)
-    print(children_words)
-    print(children_frequencies)
+    return trained_trie
+    """
     for child in trained_trie.root.children:
         children_words, children_frequencies = Node.get_children(trained_trie.root.children[child])
-    """
     for child in trained_trie.root.children:
         print(trained_trie.root.children[child])
         print(trained_trie.root.children[child].frequency)
@@ -72,10 +80,13 @@ def create_trie(sentences, degree):
             print(trained_trie.root.children[grandchild].frequency)
     """
 
-def train_markov_chain(degree):
+def train_markov_chain(length, degree):
     """Divide text into sentences and create a Markov chain based on them."""
     sentences = get_training_data()
-    create_trie(sentences, degree)
+    trie = create_trie(sentences, degree)
+    for i in range(20):
+        sentence = Trie.get_sentence(trie, length, degree)
+        print(sentence)
 
 def get_training_data():
     data = open("testidata.txt", "r", encoding="utf-8")
