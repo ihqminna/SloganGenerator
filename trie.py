@@ -69,24 +69,12 @@ def create_trie(sentences, degree):
             Trie.insert_sentence(trained_trie, sentence_to_insert)
             i += 1
     return trained_trie
-    """
-    for child in trained_trie.root.children:
-        children_words, children_frequencies = Node.get_children(trained_trie.root.children[child])
-    for child in trained_trie.root.children:
-        print(trained_trie.root.children[child])
-        print(trained_trie.root.children[child].frequency)
-        for grandchild in trained_trie.root.children[child].children:
-            print(trained_trie.root.children[child].children[grandchild])
-            print(trained_trie.root.children[grandchild].frequency)
-    """
 
-def train_markov_chain(length, degree):
+def train_markov_chain(degree):
     """Divide text into sentences and create a Markov chain based on them."""
     sentences = get_training_data()
     trie = create_trie(sentences, degree)
-    for i in range(20):
-        sentence = Trie.get_sentence(trie, length, degree)
-        print(sentence)
+    return trie
 
 def get_training_data():
     data = open("testidata.txt", "r", encoding="utf-8")
