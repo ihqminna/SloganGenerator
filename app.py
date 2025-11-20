@@ -6,7 +6,7 @@ def main():
     length, degree = ask_for_parameters()
     print("Luodaan siis " + str(length) + " sanan pituisia lauseita asteella " + str(degree))
     trained_trie = trie.train_markov_chain(degree)
-    for i in range(20):
+    for i in range(5):
         sentence = trie.Trie.get_sentence(trained_trie, length, degree)
         print(sentence)
     #phrases = generate_phrases(length)
@@ -14,10 +14,9 @@ def main():
 def ask_for_parameters():
     degree = ask_for_value("Luodaanpas uusia lauseita! Mitä astetta haluat käyttää?")
     length = ask_for_value("Entä monenko sanan pituisia lauseita?")
-    return degree, length
+    return length, degree
 
 def ask_for_value(question):
-    valid = False
     print(question)
     value = input()
     valid = value.isnumeric()

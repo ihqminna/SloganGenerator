@@ -46,14 +46,29 @@ class Trie:
             current_node.frequency += 1
 
     def get_sentence(self, length, degree):
-        sentence = ""
         current_node = self.root
-        for i in range(length):
+        words = []
+        nodes = []
+        for i in range(degree+1):
+            if len(words) == length:
+                return words
             children_words, children_frequencies = Node.get_children(current_node)
             word = random.choices(children_words, weights=children_frequencies, k=1)[0]
-            sentence = sentence + " " + word
+            words.append(word)
             current_node = current_node.children[word]
-        return sentence
+            nodes.append(current_node)
+        while len(words) < length:
+            current_node = self.root
+            context_words = words[-degree:]
+            for w in context_words:
+                if w not in current_node.children:
+                    return "Ei lapsia sanalla " + w
+                current_node = current_node.children[w]
+            children_words, children_frequencies = Node.get_children(current_node)
+            if not children_words: return "Ei lapsia"
+            word = random.choices(children_words, weights=children_frequencies, k=1)[0]
+            words.append(word)
+        return words
         
 def create_trie(sentences, degree):
     """Creates a trie and saves sentences to it based on the degree as a parameter."""
@@ -77,7 +92,7 @@ def train_markov_chain(degree):
     return trie
 
 def get_training_data():
-    data = open("testidata.txt", "r", encoding="utf-8")
+    data = open("data/luontotekstit.txt", "r", encoding="utf-8")
     raw_text = data.read()
     sentences = text_to_sentences(raw_text)
     data.close()
