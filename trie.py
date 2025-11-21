@@ -1,8 +1,15 @@
+"""Module for trie functions."""
+
 import re
 import random
 
 class Node:
-    """Class for nodes in Trie."""
+    """Class for nodes in Trie.
+
+    Attributes:
+        childen: children of the node
+        frequency: how often does the node occur
+    """
 
     def __init__(self):
         """Initializes new node."""
@@ -30,14 +37,22 @@ class Node:
         return children_words, children_frequencies
 
 class Trie:
-    """Class for Trie structure."""
+    """Class for Trie structure.
+
+    Attributes:
+        root: root-node of the structure
+    """
 
     def __init__(self):
         """Initializes new Trie structure."""
         self.root = Node()
 
     def insert_sentence(self, sentence):
-        """"""
+        """Insert a sentence to trie.
+
+        Args:
+            sentence: sentence to be inserted
+        """
         current_node = self.root
         for word in sentence:
             if word not in current_node.children:
@@ -46,6 +61,15 @@ class Trie:
             current_node.frequency += 1
 
     def get_sentence(self, length, degree):
+        """Create a sentence from the trie.
+
+        Args:
+            length: length of the sentence
+            degree: degree of the markov chain
+
+        Returns:
+            words: sentence created as a list        
+        """
         current_node = self.root
         words = []
         nodes = []
@@ -68,9 +92,17 @@ class Trie:
             word = random.choices(children_words, weights=children_frequencies, k=1)[0]
             words.append(word)
         return words
-        
+
 def create_trie(sentences, degree):
-    """Creates a trie and saves sentences to it based on the degree as a parameter."""
+    """Creates a trie and saves sentences to it based on the degree as a parameter.
+    
+    Args:
+        sentences: the training data for trie
+        degree: the degree of the Markov chain
+
+    Returns:
+        trained_trie: the trie that was created from the sentences
+    """
     trained_trie = Trie()
     for s in sentences:
         i = 0
@@ -85,20 +117,36 @@ def create_trie(sentences, degree):
     return trained_trie
 
 def train_markov_chain(degree):
-    """Divide text into sentences and create a Markov chain based on them."""
+    """Divide text into sentences and create a Markov chain based on them.
+    
+    Return:
+        trie: return the trie structure created
+    """
     sentences = get_training_data()
     trie = create_trie(sentences, degree)
     return trie
 
 def get_training_data():
-    data = open("data/luontotekstit.txt", "r", encoding="utf-8")
-    raw_text = data.read()
+    """Read training data.
+    
+    Returns:
+        sentences: the text split into words and sentences
+    """
+    with open("data/luontotekstit.txt", "r", encoding="utf-8") as data:
+        raw_text = data.read()
     sentences = text_to_sentences(raw_text)
     data.close()
     return sentences
 
 def text_to_sentences(text):
-    """Split text into sentences and words."""
+    """Split text into sentences and words.
+    
+    Args:
+        text: the text to be split
+
+    Returns:
+        checked_sentences: text split into words and sentences
+    """
     text = text.lower()
     sentences = re.split(r'[.!?,-]', text)
     checked_sentences = []
@@ -113,7 +161,8 @@ def text_to_sentences(text):
                 else:
                     checked_word = ""
                     break
-            if checked_word: checked_words.append(checked_word)
+            if checked_word:
+                checked_words.append(checked_word)
         checked_sentences.append(checked_words)
     checked_sentences = [s for s in checked_sentences if s]
     return checked_sentences
