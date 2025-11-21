@@ -3,7 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Supporting files
 sanamäärä.py
+pylint_temp.txt
 
 # C extensions
 *.so
