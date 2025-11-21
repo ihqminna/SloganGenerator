@@ -25,6 +25,8 @@ Harjoitusdata sisältää ympäristöaiheisia tekstejä. Ne liittyvät ympärist
 - https://suomenkuvalehti.fi/kotimaa/ne-kuuliaisesti-rahtasivat-kalalaatikoitani-helsinkiin-pentti-linkola-muistelee-linja-autoja/
 - https://suomenkuvalehti.fi/kotimaa/pentti-linkola-ja-kalastajan-testamentti-kalan-ystavaa-itkettaa/
 - https://fi.wikiquote.org/wiki/Pentti_Linkola
+- Linkola, Pentti. (1971) Unelmat paremmasta maailmasta. Into Kustannus.
+- Linkola, Pentti. (1981) Isänmaan ja ihmisen puolesta. Into Kustannus.
 
 
 ### luontotekstit.txt
