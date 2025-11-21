@@ -62,10 +62,9 @@ class Trie:
             context_words = words[-degree:]
             for w in context_words:
                 if w not in current_node.children:
-                    return "Ei lapsia sanalla " + w
+                    return None
                 current_node = current_node.children[w]
             children_words, children_frequencies = Node.get_children(current_node)
-            if not children_words: return "Ei lapsia"
             word = random.choices(children_words, weights=children_frequencies, k=1)[0]
             words.append(word)
         return words
