@@ -1,6 +1,6 @@
 """Main program."""
 
-import trie
+import src.trie
 import sys
 
 def main():
