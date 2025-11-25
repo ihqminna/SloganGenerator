@@ -77,6 +77,8 @@ class Trie:
             if len(words) == length:
                 return words
             children_words, children_frequencies = Node.get_children(current_node)
+            if not children_words:
+                return None
             word = random.choices(children_words, weights=children_frequencies, k=1)[0]
             words.append(word)
             current_node = current_node.children[word]
@@ -134,8 +136,8 @@ def get_training_data():
     """
     with open("data/luontotekstit.txt", "r", encoding="utf-8") as data:
         raw_text = data.read()
-    sentences = text_to_sentences(raw_text)
     data.close()
+    sentences = text_to_sentences(raw_text)
     return sentences
 
 def text_to_sentences(text):

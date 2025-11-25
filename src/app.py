@@ -1,7 +1,7 @@
 """Main program."""
 
-import src.trie
 import sys
+import trie
 
 def main():
     """ Start the program: creates trie and then generates phrases."""
