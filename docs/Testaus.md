@@ -1,8 +1,18 @@
+# Testaus
+
+## Yksikkötestauksen kattavuusraportti:
+
+Name                     Stmts   Miss Branch BrPart  Cover   Missing
+--------------------------------------------------------------------
+src\__init__.py              0      0      0      0   100%
+src\tests\__init__.py        0      0      0      0   100%
+src\tests\app_test.py        3      0      0      0   100%
+src\tests\trie_test.py      36      0      0      0   100%
+src\trie.py                 95      0     36      0   100%
+--------------------------------------------------------------------
+TOTAL                      134      0     36      0   100%
+
 Kurssimateriaalista:
-
-Testausdokumentin pitääs sisältää seuraavat:
-
-- Yksikkötestauksen kattavuusraportti.
 - Mitä on testattu, miten tämä tehtiin?
 - Minkälaisilla syötteillä testaus tehtiin?
 - Miten testit voidaan toistaa?
