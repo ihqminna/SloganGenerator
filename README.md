@@ -1,10 +1,10 @@
 # Luontolausegeneraattori
 
-Tehdään lauseita jee!
+Tehdään luontolauseita jee!
 
 ## Toiminnallisuudet
 
-Sovelluksen on tarkoitus sisältää seuraavat toiminnallisuudet:
+Sovellus sisältää seuraavat toiminnallisuudet:
 - Luo lausegeneraattori harjoitusdatan pohjalta
 - Rakentaa lauseita aineiston opittujen ketjujen perusteella
     - Käyttäjä määrittää Markovin ketjujen asteen
@@ -16,13 +16,21 @@ Sovelluksen on tarkoitus sisältää seuraavat toiminnallisuudet:
 2. Varmista että Python on asennettuna (esim. komentorivillä "python --version"), asenna tarvittaessa
 3. Aja app.py -tiedosto komentorivillä ("python src/app.py")
 4. Anna ohjelmalle Markovin ketjun aste ja toivottu lausepituus
-5. Lauseita generoidaan, jos se antamillasi arvoilla on mahdollista
+5. Harjoitusdatasta luodaan Trie-rakenne ja tulostetaan sen pohjalta lauseita, jos se antamillasi arvoilla on mahdollista
 
 ## Harjoitusdata
 
-Harjoitusdata sisältää ympäristöaiheisia tekstejä. Ne liittyvät ympäristöaktivismiin tai sukupuuttoihin, jotta niiden pohjalta voidaan muodostaa vaikuttavia lauseita luontoon liittyen.
+Harjoitusdata sisältää ympäristöaiheisia tekstejä. Ne liittyvät ympäristöaktivismiin tai sukupuuttoihin, jotta niiden pohjalta voidaan muodostaa lauseita luontoon liittyen.
 
 ### Harjoitusdatan tekstien lähteet:
+
+### luontotekstit.txt (käytössä ohjelmassa)
+- Pentti Linkolan ympäristöaiheisia kirjoituksia: https://ikihonka.blogspot.com/
+- Pentti Linkolan teksti 1988: https://suomenluonto.fi/artikkelit/pentti-linkola-1988-luonnonystavan-elamankerta/
+- Greenpeace: Metsäaktivistin opas (https://www.greenpeace.org/static/planet4-finland-stateless/2023/02/d925e019-metsaaktivistin_opas_digi.pdf)
+- Luonnonsuojelijan vaikuttamisopas (Jorma Mäntylä, 2019). Suomen luonnonsuojeluliiton Pirkanmaan piiri ry: https://www.sll.fi/wp-content/uploads/sites/138/2019/10/luonnonsuojelijan_vaikuttamisopas_sll_pirkanmaan_piiri_ry_web.pdf
+- WWF:n Metsävaikuttamisopas (Ari Aalto, Keijo Savola, Panu Kunttu, Joonas Fritze, 2020): https://wwf.fi/app/uploads/1/4/1/acga7kib28pietgk1cczmm/metsavaikuttamisopas_final.pdf
+- Suomen lajien uhanalaisuus – Punainen kirja 2019 (Hyvärinen, E., Juslén, A., Kemppainen, E., Uddström, A & Liukko, U-M. (toim.) 2019). Ympäristöministeriö & Suomen ympäristökeskus: https://helda.helsinki.fi/handle/10138/299501
 
 #### testidata.txt
 - Pentti Linkolan ympäristöaiheisia kirjoituksia: https://ikihonka.blogspot.com/
@@ -35,12 +43,3 @@ Harjoitusdata sisältää ympäristöaiheisia tekstejä. Ne liittyvät ympärist
 - https://fi.wikiquote.org/wiki/Pentti_Linkola
 - Linkola, Pentti. (1971) Unelmat paremmasta maailmasta. Into Kustannus.
 - Linkola, Pentti. (1981) Isänmaan ja ihmisen puolesta. Into Kustannus.
-
-
-### luontotekstit.txt
-- Pentti Linkolan ympäristöaiheisia kirjoituksia: https://ikihonka.blogspot.com/
-- Pentti Linkolan teksti 1988: https://suomenluonto.fi/artikkelit/pentti-linkola-1988-luonnonystavan-elamankerta/
-- Greenpeace: Metsäaktivistin opas (https://www.greenpeace.org/static/planet4-finland-stateless/2023/02/d925e019-metsaaktivistin_opas_digi.pdf)
-- Luonnonsuojelijan vaikuttamisopas (Jorma Mäntylä, 2019). Suomen luonnonsuojeluliiton Pirkanmaan piiri ry: https://www.sll.fi/wp-content/uploads/sites/138/2019/10/luonnonsuojelijan_vaikuttamisopas_sll_pirkanmaan_piiri_ry_web.pdf
-- WWF:n Metsävaikuttamisopas (Ari Aalto, Keijo Savola, Panu Kunttu, Joonas Fritze, 2020): https://wwf.fi/app/uploads/1/4/1/acga7kib28pietgk1cczmm/metsavaikuttamisopas_final.pdf
-- Suomen lajien uhanalaisuus – Punainen kirja 2019 (Hyvärinen, E., Juslén, A., Kemppainen, E., Uddström, A & Liukko, U-M. (toim.) 2019). Ympäristöministeriö & Suomen ympäristökeskus: https://helda.helsinki.fi/handle/10138/299501
