@@ -12,6 +12,8 @@ src\trie.py                 95      0     36      0   100%
 --------------------------------------------------------------------
 TOTAL                      134      0     36      0   100%
 
+![Coverage report](coverage_report.png)
+
 Kurssimateriaalista:
 - Mitä on testattu, miten tämä tehtiin?
 - Minkälaisilla syötteillä testaus tehtiin?
