@@ -10,6 +10,14 @@ Sovelluksen on tarkoitus sisältää seuraavat toiminnallisuudet:
     - Käyttäjä määrittää Markovin ketjujen asteen
     - Käyttäjä määrittää lauseiden pituuden
 
+## Ohjelman suorittaminen
+
+1. Lataa ohjelma, kloonaa esimerkiksi repositorio koneellesi
+2. Varmista että Python on asennettuna (esim. komentorivillä "python --version"), asenna tarvittaessa
+3. Aja app.py -tiedosto komentorivillä ("python src/app.py")
+4. Anna ohjelmalle Markovin ketjun aste ja toivottu lausepituus
+5. Lauseita generoidaan, jos se antamillasi arvoilla on mahdollista
+
 ## Harjoitusdata
 
 Harjoitusdata sisältää ympäristöaiheisia tekstejä. Ne liittyvät ympäristöaktivismiin tai sukupuuttoihin, jotta niiden pohjalta voidaan muodostaa vaikuttavia lauseita luontoon liittyen.
