@@ -15,6 +15,14 @@ class TestTrie(unittest.TestCase):
         src.trie.Trie.insert_sentence(self.test_trie, sentence2)
         self.assertIn(src.trie.Trie.get_sentence(self.test_trie, 3, 2), [sentence1, sentence2])
 
+    def test_long_sentence(self):
+        sentence1 = ["testaaminen", "kivaa"]
+        sentence2 = ["kivaa", "testaaminen"]
+        src.trie.Trie.insert_sentence(self.test_trie, sentence1)
+        src.trie.Trie.insert_sentence(self.test_trie, sentence2)
+        outcomes = [["testaaminen", "kivaa", "testaaminen", "kivaa"], ["kivaa", "testaaminen", "kivaa", "testaaminen"]]
+        self.assertIn(src.trie.Trie.get_sentence(self.test_trie, 4, 1), outcomes)
+
     def test_length_smaller_than_degree(self):
         sentence1 = ["testaaminen", "on", "kivaa"]
         src.trie.Trie.insert_sentence(self.test_trie, sentence1)
