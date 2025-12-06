@@ -43,9 +43,10 @@ class Trie:
         root: root-node of the structure
     """
 
-    def __init__(self):
+    def __init__(self, sentences):
         """Initializes new Trie structure."""
         self.root = Node()
+        self.sentences = sentences
 
     def insert_sentence(self, sentence):
         """Insert a sentence to trie.
@@ -95,6 +96,37 @@ class Trie:
             words.append(word)
         return words
 
+    def sentences_in_training_data(self, sentences):
+        """Method checks how many of the provided sentences occur as is in the training data.
+        
+        Args:
+        takes the sentences as argument
+
+        Returns:
+        count of how many of the sentences occur as is in the training data
+        """
+        not_unique = 0
+        for s in sentences:
+            if Trie.in_training_data(self, s):
+                not_unique += 1
+        return not_unique
+    
+    def in_training_data(self, sentence):
+        """Checks if a sentence occurs as is in the training data.
+        
+        Args:
+        self: the trie structure
+        sentence: sentence to be checked
+        """
+        p = len(sentence)
+        for sent in self.sentences:
+            if any(
+                sent[i:i+p] == sentence
+                for i in range(len(sent) - p + 1)
+            ):
+                return True
+        return False
+
 def create_trie(sentences, degree):
     """Creates a trie and saves sentences to it based on the degree as a parameter.
     
@@ -105,7 +137,7 @@ def create_trie(sentences, degree):
     Returns:
         trained_trie: the trie that was created from the sentences
     """
-    trained_trie = Trie()
+    trained_trie = Trie(sentences)
     for s in sentences:
         i = 0
         while i < len(s) - degree:
