@@ -3,7 +3,8 @@ import src.trie
 
 class TestTrie(unittest.TestCase):
     def setUp(self):
-        self.test_trie = src.trie.Trie()
+        self.sentences = [["tämä", "on", "testilause"], ["toinen"]]
+        self.test_trie = src.trie.Trie(self.sentences)
 
     def test_create_empty_trie(self):
         self.assertIsNone(src.trie.Trie.get_sentence(self.test_trie, 1, 1))
@@ -37,6 +38,14 @@ class TestTrie(unittest.TestCase):
         text = "OiKeAstI,,,, oik33sti s11s joo &&&on tää AikaMoista, vai?? mitäh."
         correct_split = [["oikeasti"], ["joo", "tää", "aikamoista"], ["vai"], ["mitäh"]]
         self.assertEqual(src.trie.text_to_sentences(text), correct_split)
+
+    def test_check_not_unique(self):
+        sentences = [["tämä", "on", "testilause"], ["toinen"]]
+        self.assertEqual(src.trie.Trie.sentences_in_training_data(self, sentences), 2)
+
+    def test_check_one_unique(self):
+        sentences = [["erilainen", "lause"], ["toinen"]]
+        self.assertEqual(src.trie.Trie.sentences_in_training_data(self, sentences), 1)
 
     def test_markov_chain(self):
         trained_trie = src.trie.train_markov_chain(1)
