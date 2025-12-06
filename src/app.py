@@ -24,7 +24,7 @@ def use_trie(trained_trie, length, degree):
         print("Luodaan " + str(length) + " sanan pituisia lauseita Markovin ketjulla.")
         sentences = generate_phrases(trained_trie, length, degree)
         print_sentences(sentences)
-        print("Haluatko luoda uuden mallin tai tarkistaa moniko lause on uniikki (ei löydy sellaisenaan harjoitusdatasta)?")
+        print("Haluatko luoda uuden mallin tai tarkistaa moniko lause on uniikki?")
         print("Syötä m jos haluat luoda uuden mallin.")
         print("Syötä t jos haluat tarkistaa lauseiden esiintymisen sellaisenaan harjoitusdatassa.")
         print("Syötä x keskeyttääksesi ohjelman.")
@@ -47,7 +47,8 @@ def check_uniques(trained_trie, sentences):
     """
     not_unique = trie.Trie.sentences_in_training_data(trained_trie, sentences)
     total = len(sentences)
-    print("Yhteensä " + str(total) + " lauseesta harjoitusdatassa esiintyy täysin samana " + str(not_unique) + " lausetta.")
+    txt = " lauseesta harjoitusdatassa esiintyy täysin samana "
+    print("Yhteensä " + str(total) + txt + str(not_unique) + " lausetta.")
 
 def ask_for_parameters():
     """Gets parameters from the user.
@@ -105,7 +106,6 @@ def generate_phrases(trained_trie, length, degree):
     for i in range(200):
         if len(sentences) == 10:
             return sentences
-        phrase = ""
         sentence = trie.Trie.get_sentence(trained_trie, length, degree)
         if sentence:
             sentences.append(sentence)

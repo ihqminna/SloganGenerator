@@ -110,7 +110,7 @@ class Trie:
             if Trie.in_training_data(self, s):
                 not_unique += 1
         return not_unique
-    
+
     def in_training_data(self, sentence):
         """Checks if a sentence occurs as is in the training data.
         
