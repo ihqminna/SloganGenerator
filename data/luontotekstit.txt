@@ -3425,23 +3425,23 @@ julkaisussa lisätty ruotsalaisen käytännön mukaisesti päätösten
 seuranta. Sillä on merkitystä nimenomaan ympäristöasioissa.
 6 Luonnonsuojelijan vaikuttamisopas
 PÄÄTÖKSENTEON VAIHE VAIKUTETTAVA TAHO
-• valtuutettu
-• virkamies Aloite ja vireillepano
-• kuntalainen
-• media
-• ympäristöstä vastaava
+  valtuutettu
+  virkamies Aloite ja vireillepano
+  kuntalainen
+  media
+  ympäristöstä vastaava
 Virkamiesvalmistelu virkamies
-• media
-• ympäristölautakunta
+  media
+  ympäristölautakunta
  tai sen tehtäviä hoitava Luottamustoimivalmistelu
  lautakunta (+ päättäminen)
-• media
-• kunnanhallitus Päätösvalmistelu valtuustolle
-• media
-• valtuusto Lopullinen päätös • media
-• kunnanhallitus
-Toimeenpano • virkamiehet
-• media
+  media
+  kunnanhallitus Päätösvalmistelu valtuustolle
+  media
+  valtuusto Lopullinen päätös   media
+  kunnanhallitus
+Toimeenpano   virkamiehet
+  media
 KUNNAN PÄÄTÖKSET OVAT LÄHIMPÄNÄ
 Ylivoimaisesti suurin osa ympäristöön liittyvästä päätöksenteosta tapahtuu kunnissa. Niillä
 on perustuslaissa säädetty itsehallinto, jonka
@@ -3838,17 +3838,17 @@ lobbaukseksi (engl. lobby = eteinen, aula, aikaisessa vaiheessa toimiva painostu
 Valtiollisella ja kansainvälisellä tasolla laajamittainen lobbaus on levinnyt myös kansalliselle ja paikalliselle tasolle. Se on käytössä
 myös monessa kunnassa, ja Kuntaliiton
 Vallakas -opas jopa neuvoo miten lobbaus tehdään korrektisti:
-• Mitä haluan saavuttaa lobbauksella?
-• Osaanko tiivistää sanomani
+  Mitä haluan saavuttaa lobbauksella?
+  Osaanko tiivistää sanomani
  kolmeen lauseeseen?
-• Keitä ovat ne henkilöt tai tahot,
+  Keitä ovat ne henkilöt tai tahot,
  joihin lobbaukseni tulisi vaikuttaa?
-• Millaisella aikataululla asiani käsitellään?
+  Millaisella aikataululla asiani käsitellään?
  Milloin minun tulisi lobata ja kenelle?
-• Keiden kanssa tekisin yhteistyötä?
-• Onko viestini tarpeeksi iskevä
+  Keiden kanssa tekisin yhteistyötä?
+  Onko viestini tarpeeksi iskevä
  mediaa varten?
-• Onko minulla selkeä suunnitelma
+  Onko minulla selkeä suunnitelma
  toiminnastani? Tiedänkö varmasti
  aikatauluni, resurssini ja yhteistyötahoni?
 Elisa Juholin määrittelee lobbauksen aloitteelliseksi keskusteluksi ja tiedonvaihdoksi
@@ -5017,10 +5017,10 @@ myös norjalaisia ja virolaisia, sekä joitakin pohjoisamerikkalaisia tutkimuksi
 Johdanto
 9
 TARKASTELUSSA:
-• Mitkä olisivat riittävät puustoiset suojavyöhykkeet metrimäärissä
+  Mitkä olisivat riittävät puustoiset suojavyöhykkeet metrimäärissä
 mitattuna erilaisissa vesistötyypeissä, jotta vesistöjen rantametsissä
 elävän eliölajiston elinolosuhteet olisi turvattu, ja toisaalta ravinneja kiintoainehuuhtoumat sitoutuisivat niihin?
-• Minkälainen suojavyöhyke tarvitaan korpien ominaispiirteiden
+  Minkälainen suojavyöhyke tarvitaan korpien ominaispiirteiden
 (erityisesti kostea pienilmasto) säilymisen kannalta, jos tehdään
 avohakkuu?
 Vesistöjen
@@ -5052,53 +5052,53 @@ luontoarvot ja niiden muodostamien kuvioiden leveydet vaihtelevat hyvin paljon r
 tulvimisesta.
 1. Rantametsän suojavaikutukset vesiekosysteemiin
 Rantametsällä on useita merkityksellisiä ekologisia vaikutuksia vesistöihin:
-• Karikkeen tuottaminen vesistöön. Karike on tärkeä ravinnonlähde pohjaeläimille rantavesissä. Erityisen suuri merkitys karikkeella on voimakkaasti varjostuneissa pienvesissä,
+  Karikkeen tuottaminen vesistöön. Karike on tärkeä ravinnonlähde pohjaeläimille rantavesissä. Erityisen suuri merkitys karikkeella on voimakkaasti varjostuneissa pienvesissä,
 joiden oma perustuotanto on vähäistä. Rantametsän puulajit ja niiden karike vaikuttavat
 myös rantametsän maaperän ja sitä kautta valumavesien happamuuteen. Lehtipuiden
 karikkeella on valumavesien happamuutta vähentävä vaikutus.
-• Kuolleen puun tuottaminen vesistöön. Kuolleet puut tarjoavat suojapaikkoja, elinympäristöjä ja tarttumapintoja vesieliöille. Tällä on erityisen suuri merkitys virtavesissä. Kuolleet puut muuttavat virtausolosuhteita ja uoman rakennetta monimuotoisemmaksi.
-• Puiden juurten rantapenkkoja vakauttava ja uoman eroosiota vähentävä vaikutus.
-• Vesistön varjostus, mikä vaikuttaa veden lämpötilaan ja sitä kautta happipitoisuuteen.
+  Kuolleen puun tuottaminen vesistöön. Kuolleet puut tarjoavat suojapaikkoja, elinympäristöjä ja tarttumapintoja vesieliöille. Tällä on erityisen suuri merkitys virtavesissä. Kuolleet puut muuttavat virtausolosuhteita ja uoman rakennetta monimuotoisemmaksi.
+  Puiden juurten rantapenkkoja vakauttava ja uoman eroosiota vähentävä vaikutus.
+  Vesistön varjostus, mikä vaikuttaa veden lämpötilaan ja sitä kautta happipitoisuuteen.
 Tällä on suurin merkitys voimakkaasti varjostuneissa ja kylmävetisissä pienvesissä. Järvien rannoilla tämä ei ole niin merkittävä tekijä.
-• Ravinteiden ja kiintoaineksen pidätys.
+  Ravinteiden ja kiintoaineksen pidätys.
 Ruotsalaisen SILVA-tutkimushankkeen tulokset
 Ruotsin Fiskeriverket on tuottanut tutkimustietoa metsätalouden suojavyöhykkeiden mitoituksen perustaksi (SILVA-projekti 1995–2000) (Nyberg & Eriksson 2001).
 Projektiin sisältyi laaja, 600 viitteeseen perustuva kirjallisuuskatsaus (Berquist 1999)
 11
 maa- ja metsätalousalueiden suojavyöhykkeitä koskevasta tutkimustiedosta ja ohjeista
 eri maissa. Kirjallisuuskatsauksessa tehtiin seuraavat johtopäätökset:
-• Jotta valumaolot vesiuomissa ja rannoilla säilyisivät ja eroosio vähenisi, on tarpeellista
+  Jotta valumaolot vesiuomissa ja rannoilla säilyisivät ja eroosio vähenisi, on tarpeellista
 jättää suojavyöhykkeet kaikkien niiden vesistöjen varsille, joissa on vettä ympäri vuoden.
 Tietyissä tapauksissa tulee suojavyöhykkeet jättää myös ajoittain kuivuvien vesiuomien
 ja pohjaveden ulosvirtausalueiden ympärille. Tämän lisäksi tarvitaan soiden ja kosteikkojen suojelua valuman lähdealueilla.
-• Ravinteiden pidättyminen suojavyöhykkeille perustuu kolmeen prosessiin: kiintoaineen
+  Ravinteiden pidättyminen suojavyöhykkeille perustuu kolmeen prosessiin: kiintoaineen
 mekaaniseen pidättymiseen kasvillisuuteen, kasvillisuuden ravinteiden ottoon ja denitrifikaatioon, jossa bakteerit pelkistävät valumavesien nitraatti-ioneita typpikaasuksi. Denitrifikaatiota tapahtuu soilla ja kosteikoissa. Näiden prosessien kannalta on tärkeää, että
 valumavedet viipyvät suojavyöhykkeellä tarpeeksi kauan.
-• Suojavyöhykkeiden tulee olla vähintään 10 m leveitä, jotta ne voisivat pidättää tehokkaasti kiintoainetta ja pidättää enemmän kuin 50 % valumavesien kuljettamista ravinteista.
+  Suojavyöhykkeiden tulee olla vähintään 10 m leveitä, jotta ne voisivat pidättää tehokkaasti kiintoainetta ja pidättää enemmän kuin 50 % valumavesien kuljettamista ravinteista.
 Yleinen suositus on, että suojavyöhykkeen tulisi olla vähintään 15 m leveä vähentääkseen
 tehokkaasti maankäytön vaikutuksia veden laatuun. Suojavyöhyke, jolla kasvaa monikerroksellista kasvillisuutta (ruohoja, pensaita ja puita), pidättää sekä kiintoainetta että
 ravinteita tehokkaammin kuin pelkkiä ruohoja kasvava suojavyöhyke.
-• Suojavyöhykkeiden tulee olla vähintään 15–30 m leveitä ja niillä täytyy olla vähintään
+  Suojavyöhykkeiden tulee olla vähintään 15–30 m leveitä ja niillä täytyy olla vähintään
 60–80 % puuston alkuperäisestä latvuspeittävyydestä jäljellä, jotta vesistön lämpötilan
 nousu hakkuun jälkeen voitaisiin välttää. Erityisen tärkeä tässä suhteessa on etelän puoleisen rannan suojavyöhyke.
-• Lehtikarike, oksat ja neulaset, päätyvät vesistöön melko kapealta, 10–15 m leveältä rantametsävyöhykkeeltä. Lehtikarike on pohjaeläimistön kannalta arvokkaampaa kuin havukarike. Kuolleet puunrungot kaatuvat vesistöön noin 30 m leveältä rantavyöhykkeeltä.
+  Lehtikarike, oksat ja neulaset, päätyvät vesistöön melko kapealta, 10–15 m leveältä rantametsävyöhykkeeltä. Lehtikarike on pohjaeläimistön kannalta arvokkaampaa kuin havukarike. Kuolleet puunrungot kaatuvat vesistöön noin 30 m leveältä rantavyöhykkeeltä.
 Yleensä suojavyöhykkeen tulisi olla 20 m leveä, jotta kuolleen puuston määrä vesistössä
 säilyisi hakkuuta edeltäneellä tasolla.
-• Suojavyöhykkeiden mitoittaminen erilaisiin oloihin edellyttää vesistöjen ja rantavyöhykkeiden kuvaamista ja luokittelua, ongelma-alueiden tunnistamista sekä sen määrittelemistä, mitä suojeluvaikutuksia tavoitellaan.
-• Pienten ja keskisuurten vesistöjen suojelemiseksi tarvitaan yleensä 15–30 m leveitä suojavyöhykkeitä. Useat tutkijat pitävät 15 m leveyttä miniminä veden laadun suojelun kannalta ja 20–30 m leveyttä miniminä vesistön biologisten arvojen säilyttämisen kannalta.
+  Suojavyöhykkeiden mitoittaminen erilaisiin oloihin edellyttää vesistöjen ja rantavyöhykkeiden kuvaamista ja luokittelua, ongelma-alueiden tunnistamista sekä sen määrittelemistä, mitä suojeluvaikutuksia tavoitellaan.
+  Pienten ja keskisuurten vesistöjen suojelemiseksi tarvitaan yleensä 15–30 m leveitä suojavyöhykkeitä. Useat tutkijat pitävät 15 m leveyttä miniminä veden laadun suojelun kannalta ja 20–30 m leveyttä miniminä vesistön biologisten arvojen säilyttämisen kannalta.
 SILVA-projektin kokeellisessa osassa tutkittiin erilevyisten suojavyöhykkeiden vaikutuksia puroekosysteemiin 15 eri purokohteessa. Vertailtavina suojavyöhykkeinä olivat
 kapea (5 m) epäyhtenäinen suojavyöhyke, kapea (5 m) koskematon ja yhtenäinen suojavyöhyke sekä leveä (20 m) koskematon suojavyöhyke. Kustakin toteutusvaihtoehdosta oli viisi toistoa (Nyberg & Eriksson 2001).
 Kokeellisen osan tulosten mukaan kansainväliset havainnot pitävät hyvin paikkansa
 myös Ruotsin oloissa. SILVA-projektin (Nyberg & Eriksson 2001) mukaan:
-• Kaikkien vesistöjen varsille tulee jättää koskematon suojavyöhyke. Myös ajoittain kuivuvien vesiuomien ja soiden ympärille tulisi jättää suojavyöhyke.
-• Suojavyöhykkeen tulee olla yli 5 m leveä, jos halutaan välttää haitalliset vesistövaikutukset.
-• Käytettäessä 20 m leveitä suojavyöhykkeitä vesistövaikutukset ovat vähäisiä tai ne eivät ole mitattavissa.
-• Suojavyöhykkeen mitoituksessa ja rajauksessa tulee ottaa huomioon maaperän eroosioherkkyys ja vesistön luonnonsuojeluarvo.
+  Kaikkien vesistöjen varsille tulee jättää koskematon suojavyöhyke. Myös ajoittain kuivuvien vesiuomien ja soiden ympärille tulisi jättää suojavyöhyke.
+  Suojavyöhykkeen tulee olla yli 5 m leveä, jos halutaan välttää haitalliset vesistövaikutukset.
+  Käytettäessä 20 m leveitä suojavyöhykkeitä vesistövaikutukset ovat vähäisiä tai ne eivät ole mitattavissa.
+  Suojavyöhykkeen mitoituksessa ja rajauksessa tulee ottaa huomioon maaperän eroosioherkkyys ja vesistön luonnonsuojeluarvo.
 12
 Kuva 2. Vaihteluväli rantametsän suojavyöhykkeiden leveyksille, joita eri tutkimuksissa pidetään
 riittävänä kyseisten suojavaikutusten saavuttamisen kannalta (Broadmeadow & Nisbet 2004).
-• Raviineissa (veden uurtamissa rotkoissa) suojavyöhykkeen tulee olla leveämpi ja mieluiten käsittää koko raviini.
-• Mitä hienojakoisempi maalaji ja mitä jyrkempi rinne, sitä leveämpi suojavyöhyke tarvitaan.
+  Raviineissa (veden uurtamissa rotkoissa) suojavyöhykkeen tulee olla leveämpi ja mieluiten käsittää koko raviini.
+  Mitä hienojakoisempi maalaji ja mitä jyrkempi rinne, sitä leveämpi suojavyöhyke tarvitaan.
 SILVA-tutkimuksen mukaan suojavyöhykkeisiin voitaisiin soveltaa pohjoisamerikkalaista mallia, jossa suojavyöhyke jaetaan sisempään suojeluvyöhykkeeseen ja ulompaan hoitovyöhykkeeseen (Nyberg & Eriksson 2001).
 Muiden eurooppalaisten ja pohjoisamerikkalaisten synteesien johtopäätöksiä
 Useissa muissakin synteesiartikkeleissa on päädytty siihen johtopäätökseen, että vähintään 20–40 metriä leveät suojavyöhykkeet ovat suositeltavia vesistöjen suojavaikutusten ja luonnon monimuotoisuuden turvaamisen kannalta.
@@ -5220,9 +5220,9 @@ hakkuusta huolimatta. (LeDoux & Wilkerson 2007)
 15
 Ravinteiden ja kiintoaineen pidättyminen suojavyöhykkeelle
 Ravinteiden pidättyminen suojavyöhykkeille perustuu kolmeen prosessiin:
-• kiintoaineen mekaaniseen pidättymiseen maan pinnalle ja kasvillisuuteen
-• kasvillisuuden ja mikrobien ravinteiden ottoon
-• denitrifikaatioon, jossa bakteerit pelkistävät valumavesien nitraatti-ioneita typpikaasuksi. Denitrifikaatiota tapahtuu niukkahappisissa oloissa soilla ja kosteikoissa.
+  kiintoaineen mekaaniseen pidättymiseen maan pinnalle ja kasvillisuuteen
+  kasvillisuuden ja mikrobien ravinteiden ottoon
+  denitrifikaatioon, jossa bakteerit pelkistävät valumavesien nitraatti-ioneita typpikaasuksi. Denitrifikaatiota tapahtuu niukkahappisissa oloissa soilla ja kosteikoissa.
 Kaikkien näiden prosessien tehokkuuden kannalta on tärkeää, että valumavedet viipyvät suojavyöhykkeellä riittävän kauan.
 Maalaji ja sen ominaisuudet vaikuttavat suojavyöhykkeen kykyyn pidättää ravinteita ja
 kiintoainesta. Maaperän ravinteidenpidätyskyky on erityisen tärkeässä asemassa kasvukauden ulkopuolella, kun kasvillisuus ei ota ravinteita. Esimerkiksi fosforin huuhtoumasta noin puolet tapahtuu lumen sulamisen yhteydessä aikaisin keväällä, jolloin
@@ -5240,9 +5240,9 @@ runsaammin, mutta karujen ombrotrofisten soiden turpeessa niitä on hyvin vähä
 Yleensä turvemaiden fosforinpidätyskyky on huonompi kuin kivennäismaiden, mutta
 suomalaisissa tutkimuksessa myös joidenkin turvemaan suojavyöhykkeiden fosforinpidätyskyky on ollut hyvä. (Väänänen 2008)
 Maalajin ja sen kemiallisten ominaisuuksien lisäksi suojavyöhykkeen ravinteiden pidätyskykyyn vaikuttavat:
-• suojavyöhykkeen pinta-ala (ravinteiden pidätyskapasiteetti)
-• suojavyöhykkeelle tulevien valumavesien määrä
-• sen ajan pituus, jonka valumavedet viipyvät suojavyöhykkeellä. (Väänänen 2008)
+  suojavyöhykkeen pinta-ala (ravinteiden pidätyskapasiteetti)
+  suojavyöhykkeelle tulevien valumavesien määrä
+  sen ajan pituus, jonka valumavedet viipyvät suojavyöhykkeellä. (Väänänen 2008)
 Vettä läpäisevä kivennäismaa pidättää ravinteita ja kiintoainesta paremmin kuin turvemaa. Ravinteiden ja kiintoaineen pidättyminen on tehokkainta, kun vesi suodattuu
 pintakerrosvaluntana maan läpi puuston ja muun kasvillisuuden juuristokerroksessa.
 Turvemaan vedenläpäisevyys syvyyssuunnassa on huono. Siksi riski pintavaluntaan ja
@@ -5606,7 +5606,7 @@ Väänänen, R. 2008. Phosphorus retention in forest soils and the functioning o
 Dissertationes Forestales 60. 42 s.
 28
 TARKASTELUSSA:
-• Paljonko järeää lahopuuta tulisi keskimäärin olla hehtaarilla, jotta siitä
+  Paljonko järeää lahopuuta tulisi keskimäärin olla hehtaarilla, jotta siitä
 olisi hyötyä lahopuusta riippuvaisen vaateliaan lajiston turvaamiseksi?
 Kuollut puu
 Lahopuun määrään luonnonmetsissä vaikuttavat kolme tekijää: kasvupaikan puuntuotoskyky, joka vaikuttaa kuolleen puuston tuottoon, kuolleiden puiden lahoamisnopeus sekä häiriöt, jotka vaikuttavat lahopuun muodostumisnopeuteen ja metsikön
@@ -5994,15 +5994,15 @@ populaatiobiologiasta.
 Kuolleen puun lisäämistavat ja niillä aikaan saatavat kuolleen puun
 lisäykset
 Lahopuun määrää talousmetsissä voidaan lisätä monilla eri tavoilla:
-• jättämällä enemmän tuhojen tai kilpailun vuoksi kuolleita runkoja korjaamatta
-• pidättäytymällä kokonaan järeän kuolleen puun energiakäytöstä
-• tuottamalla aktiivisesti enemmän lahopuuta esim. tekopökkelöiden avulla
-• jättämällä enemmän elävää säästöpuustoa hakkuualoille
-• lisäämällä kokonaan käsittelyn ulkopuolelle jätettävien suojeltujen luontokohteiden ja
+jättämällä enemmän tuhojen tai kilpailun vuoksi kuolleita runkoja korjaamatta
+pidättäytymällä kokonaan järeän kuolleen puun energiakäytöstä
+tuottamalla aktiivisesti enemmän lahopuuta esim. tekopökkelöiden avulla
+jättämällä enemmän elävää säästöpuustoa hakkuualoille
+lisäämällä kokonaan käsittelyn ulkopuolelle jätettävien suojeltujen luontokohteiden ja
 suojavyöhykkeiden määrää
-• jättämällä harvennushakkuita tekemättä
-• pidentämällä kiertoaikoja
-• vähentämällä lahopuuston tahatonta tuhoutumista hakkuissa.
+jättämällä harvennushakkuita tekemättä
+pidentämällä kiertoaikoja
+vähentämällä lahopuuston tahatonta tuhoutumista hakkuissa.
 Puuston kasvumallien avulla voidaan simuloida, kuinka suuria kuolleen puun määriä
 on mahdollista saavuttaa pitkällä aikavälillä näillä erilaisilla luonnonhoitokäytännöillä. Ranius ym. (2003) tutkivat mallittamalla, miten Ruotsin FSC-standardin mukaiset
 luonnonhoitotoimenpiteet lisäävät lahopuuston määrää 10 000 hehtaarin laajuisella
@@ -6025,17 +6025,17 @@ tasaa eri lahoamisen asteissa olevien runkojen esiintymistä kiertoajan aikana. 
 elävien säästöpuiden jättämistä 40-vuotiaissa metsissä ei esiinny käytännössä lainkaan ensimmäisen lahoasteen järeitä lahopuita. (Ranius ym. 2003)
 Tutkijat selvittivät mallintamalla myös yksittäisten luonnonhoitotoimenpiteiden vaikutuksia kuolleen puun määrään ja laatuun. Tämä tehtiin siten että muut mallin lopuutulokseen vaikuttavat tekijät pidettiin vakioina ja vain tutkittavan muuttujan suuruutta muutettiin.
 Mallinnuksen perusteella tehtiin seuraavia johtopäätöksiä:
-• Säästöpuille jätetyn uudistuhakkuun pinta-alaosuuden kasvattaminen lisää kuolleen puun
+Säästöpuille jätetyn uudistuhakkuun pinta-alaosuuden kasvattaminen lisää kuolleen puun
 keskimääräistä tilavuutta lineaarisesti.
-• Säästettävien vastakuolleiden puiden sallitun enimmäismäärän korottaminen lisää kuolleen
+Säästettävien vastakuolleiden puiden sallitun enimmäismäärän korottaminen lisää kuolleen
 37
 puun keskimääräistä tilavuutta kiertoajan aikana etenkin silloin kun sallittu enimmäismäärä on alun perin pieni (alle 5 m3
 /ha).
-• Tekopökkelöiden tekemisellä hakkuiden yhteydessä on melko pieni vaikutus kuolleen
+Tekopökkelöiden tekemisellä hakkuiden yhteydessä on melko pieni vaikutus kuolleen
 puuston keskimääräiseen tilavuuteen kiertoajan aikana (vertaa Ruotsin FSC standardissa 3 tekopökkelöä/ha/hakkuukerta).
-• Kuolleiden puiden tuhoutumisasteella päätehakkuissa on melko suuri vaikutus kuolleen
+Kuolleiden puiden tuhoutumisasteella päätehakkuissa on melko suuri vaikutus kuolleen
 puuston keskimääräiseen tilavuuteen kiertoiajan aikana.
-• Kiertoajan pidentäminen lisää kuolleen puuston keskimääräistä tilavuutta kiertoajan aikana. (Ranius ym. 2003)
+Kiertoajan pidentäminen lisää kuolleen puuston keskimääräistä tilavuutta kiertoajan aikana. (Ranius ym. 2003)
 Toisessa mallinnustutkimuksessa Ranius ja Kindvall (2004) käyttivät samanlaista
 10 000 hehtaarin idealisoitua kuusimetsäaluetta mallintaakseen kuolleen puun määrän kehitystä. Tämäkin mallinnustutkimus perustui Ruotsin FSC-standardin kriteereihin, mutta siinä huomioitiin myös se, että 5 % metsäpinta-alasta suojellaan kokonaan
 talouskäytöltä. Lisäksi lahopuun tuhoutumisaste päätehakkuissa oletettiin selvästi
@@ -6185,12 +6185,12 @@ Kustannus lahopuuelinympäristöarvon lisäämisestä 1 %:lla, SEK/ha
 42
 Ruotsissa melko paljon. Gustafsson ym. (2016) ovat koostaneet tutkimusten tuloksista
 kirjallisuuskatsauksen, jossa esitetään seuraavat kehittämissuositukset:
-• Tekopökkelöitä tulee jatkossa tehdä enemmän myös lehtipuista. Tähän mennessä tekopökkelöitä on tehty Ruotsissa valtaosin kuusesta ja vähäisemmässä määrin männystä.
+  Tekopökkelöitä tulee jatkossa tehdä enemmän myös lehtipuista. Tähän mennessä tekopökkelöitä on tehty Ruotsissa valtaosin kuusesta ja vähäisemmässä määrin männystä.
 Lehtipuista, kuten koivuista ja haavoista, tehdyissä tekopökkelöissä esiityy erilaista lajistoa kuin kuusesta tehdyissä tekopökkelöissä.
-• Mikäli tekopökkelöitä tehdään jatkossa useammista eri puulajeista, kunkin hakkuualan
+  Mikäli tekopökkelöitä tehdään jatkossa useammista eri puulajeista, kunkin hakkuualan
 tekopökkelöt kannattaa tehdä samasta tai korkeintaan parista eri puulajista. Tekopökkelöistä on enemmän hyötyä, kun samankaltaista elinympäristöresurssia on paikallisesti
 runsaammin tarjolla. Siksi toisilla hakkuualoilla kannattaa tehdä tekopökkelöt lehtipuista ja toisilla havupuista.
-• Tekopökkelöt ovat pitkäikäisiä. Vielä 20 vuoden päästä hakkuusta useimmat niistä ovat
+  Tekopökkelöt ovat pitkäikäisiä. Vielä 20 vuoden päästä hakkuusta useimmat niistä ovat
 yhä pystyssä. Tikat ja tiaiset ovat alkaneet tehdä koloja vanhoihin tekopökkelöihin, jotka
 ovat nyt nuoren metsän varjostamia. Niiden tekopökkelöiden ympärillä, joissa on pesäkolo, ei tule tehdä perkausta eikä harvennusta paremman suojan säilyttämiseksi. Muiden tekopökkelöiden ympäriltä taimikkoa kannattaa sen sijaan perata ja harventaa tavallista voimakkaaammin, jotta ne säilyisivät ympäristöltään paisteisina mahdollisimman
 pitkään. (Gustafsson ym. 2016)
@@ -6334,22 +6334,22 @@ Tikkanen, O.-P., Martikainen, P., Hyvärinen, E., Junninen, K. & Kouki, J. 2006.
 associations with forest structure, tree species and decaying wood. Annales Zoologici Fennici 43: 373–383
 46
 TARKASTELUSSA:
-• Mikä olisi hehtaarikohtainen keskiarvo elävien säästöpuiden määrälle
+  Mikä olisi hehtaarikohtainen keskiarvo elävien säästöpuiden määrälle
 tai tilavuudelle, jolla on selvä myönteinen vaikutus metsänkäsittelystä
 kärsiviin lajeihin?
-• Mikä on säästöpuiden minimiläpimitta, jolla on selvää myönteistä
+  Mikä on säästöpuiden minimiläpimitta, jolla on selvää myönteistä
 merkitystä metsälajiston kannalta?
 Säästöpuut
 Säästöpuiden jättäminen palvelee useita eri tavoitteita. Niitä jätetään muun muassa
 seuraavista syistä:
-• vanhassa metsässä esiintyvien lajien ”pelastusrenkaiksi” uudistumisvaiheen aikana (osa
+  vanhassa metsässä esiintyvien lajien ”pelastusrenkaiksi” uudistumisvaiheen aikana (osa
 lajeista selviytyy säästöpuiden avulla ko. vaiheen yli)
-• metsikön rakenteen monipuolistamiseksi (vanhat puut, lahopuu, kolopuut, puulajit)
-• aluetason kytkeytyvyyden lisäämiseksi vanhoilla ja kuolleilla puilla elävien lajien populaatioille
-• lahopuista riippuvaisten sukkession alkuvaiheen lajien elinympäristöksi
-• ekosysteemin toiminnan varmistamiseksi (muun muassa tuholaiskantojen säätely, ravinnekierrot, tuottavuuden ylläpito ja pölyttäjät)
-• maisemallisista syistä, lieventämään päätehakkuun aiheuttamaa maiseman muutosta
-• siemenpuiksi (lisäävät luontaisen taimiaineksen määrää uudistusalalla).
+  metsikön rakenteen monipuolistamiseksi (vanhat puut, lahopuu, kolopuut, puulajit)
+  aluetason kytkeytyvyyden lisäämiseksi vanhoilla ja kuolleilla puilla elävien lajien populaatioille
+  lahopuista riippuvaisten sukkession alkuvaiheen lajien elinympäristöksi
+  ekosysteemin toiminnan varmistamiseksi (muun muassa tuholaiskantojen säätely, ravinnekierrot, tuottavuuden ylläpito ja pölyttäjät)
+  maisemallisista syistä, lieventämään päätehakkuun aiheuttamaa maiseman muutosta
+  siemenpuiksi (lisäävät luontaisen taimiaineksen määrää uudistusalalla).
 (Franklin ym. 1997, Gustafsson, Kouki & Svedrup-Thygeson 2010)
 Useimmiten säästöpuita jätetään käytännön hakkuutoiminnassa kuitenkin melko
 kaavamaisesti PEFC- tai FSC-metsäsertifioinnin kriteerien edellyttämä kappalemäärä
@@ -6758,34 +6758,34 @@ lahopuun lisäys = vuosittain jätettyjen säästöpuiden määrä
 Käytetään Etelä-Suomen keskimääräistä lahoamisnopeutta 3 %/v. = 0,03
 Lasketaan, paljonko lahopuuta säästöpuiden jättäminen päätehakkuussa tuottaa
 tasapainotilassa keskimäärin koko tilan alueelle.
-•	 Säästöpuita 5 m3
+ 	 Säästöpuita 5 m3
 /ha, tuottaa tilalle tasapainotilassa keskim. 1,7 m3
 /ha lahopuuta
-•	 Säästöpuita 10 m3
+ 	 Säästöpuita 10 m3
 /ha, tuottaa tilalle tasapainotilassa keskim. 3,3 m3
 /ha lahopuuta
-•	 Säästöpuita 15 m3
+ 	 Säästöpuita 15 m3
 /ha, tuottaa tilalle tasapainotilassa keskim. 5,0 m3
 /ha lahopuuta
-•	 Säästöpuita 20 m3
+ 	 Säästöpuita 20 m3
 /ha, tuottaa tilalle tasapainotilassa keskim. 6,7 m3
 /ha lahopuuta
-•	 Säästöpuita 25 m3
+ 	 Säästöpuita 25 m3
 /ha, tuottaa tilalle tasapainotilassa keskim. 8,3 m3
 /ha lahopuuta
-•	 Säästöpuita 30 m3
+ 	 Säästöpuita 30 m3
 /ha, tuottaa tilalle tasapainotilassa keskim. 10 m3
 /ha lahopuuta
-•	 Säästöpuita 35 m3
+ 	 Säästöpuita 35 m3
 /ha, tuottaa tilalle tasapainotilassa keskim. 11,7 m3
 /ha lahopuuta
-•	 Säästöpuita 40 m3
+ 	 Säästöpuita 40 m3
 /ha, tuottaa tilalle tasapainotilassa keskim. 13,3 m3
 /ha lahopuuta
-•	 Säästöpuita 45 m3
+ 	 Säästöpuita 45 m3
 /ha, tuottaa tilalle tasapainotilassa keskim. 15,0 m3
 /ha lahopuuta
-•	 Säästöpuita 50 m3
+ 	 Säästöpuita 50 m3
 /ha, tuottaa tilalle tasapainotilassa keskim. 16,7 m3
 /ha lahopuuta
 Vertaa: Suomen talousmetsien metsämaan keskimäärinen luonnonpoistuma on
@@ -7074,7 +7074,7 @@ Vanha-Majamaa I. & Jalonen J. 2001. Green Tree Retention in Fennoscandian Forest
 Research, Suppl. 3: 79–90.
 66
 TARKASTELUSSA:
-• Mitkä ovat luonnon monimuotoisuuden tai uhanalaisten lajien
+  Mitkä ovat luonnon monimuotoisuuden tai uhanalaisten lajien
 kannalta erityisen arvokkaita vailla lain tai FSC-standardin suojaa
 olevia luontotyyppejä?
 Luontotyyppien
@@ -7083,37 +7083,37 @@ Suojelutarpeessa olevat priorisoitavat luontotyypit on katettu pääpiirteissä�
 Suomen FSC-standardin kriteerin 6.4 säästettävien suojelukohteiden listassa. Näiden
 luontotyyppien tarkemmat määritelmät kuvataan Suomen FSC-standardissa (Suomen
 FSC-yhdistys 2011).
-• metsälain 10 §:n erityisen tärkeän elinympäristön kriteerit täyttävät kohteet niiden
+  metsälain 10 §:n erityisen tärkeän elinympäristön kriteerit täyttävät kohteet niiden
 koosta ja alueellisesta yleisyydestä riippumatta
-• erikseen määritellyt runsaslahopuustoiset kangasmetsät ja turvekankaat
-• vanha- ja lahopuustoiset metsäiset kalliot, jyrkänteet ja louhikot
-• kuusivaltaiset varttuneet ja sitä vanhemmat tuoreet lehdot, joissa lahopuuta yli 15 m3
+  erikseen määritellyt runsaslahopuustoiset kangasmetsät ja turvekankaat
+  vanha- ja lahopuustoiset metsäiset kalliot, jyrkänteet ja louhikot
+  kuusivaltaiset varttuneet ja sitä vanhemmat tuoreet lehdot, joissa lahopuuta yli 15 m3
 /ha
-• sekapuustoiset varttuneet ja sitä vanhemmat lehdot, joissa lahopuuta yli 10 m3
+  sekapuustoiset varttuneet ja sitä vanhemmat lehdot, joissa lahopuuta yli 10 m3
 /ha
-• puustorakenteeltaan luonnontilaiset ja luonnontilaisen kaltaiset varttuneet tai sitä
+  puustorakenteeltaan luonnontilaiset ja luonnontilaisen kaltaiset varttuneet tai sitä
 vanhemmat lehtipuustoiset (yli 50 %) lehdot, joissa on lehtilahopuuta yli 5 m3
 /ha
-• vesitaloudeltaan luonnontilaiset ja luonnontilaisen kaltaiset kosteat lehdot sekä lehdot,
+  vesitaloudeltaan luonnontilaiset ja luonnontilaisen kaltaiset kosteat lehdot sekä lehdot,
 joissa on vanhoja, kookkaita tai lahovikaisia jalopuita
-• tulvametsät
-• kuusivaltaiset supat
-• uomiltaan luonnontilaiset tai luonnontilaisen kaltaiset joet ja purot ranta-alueineen
+  tulvametsät
+  kuusivaltaiset supat
+  uomiltaan luonnontilaiset tai luonnontilaisen kaltaiset joet ja purot ranta-alueineen
 (vähintään 20 m puustoinen rantavyöhyke) sekä lähteet vastaavalla vyöhykkeellä
-• eri-ikäisrakenteiset tai näkyvästi lahopuustoa sisältävät vesistöjen ja pienvesien reunametsät (vähintään 30 m puustoinen rantavyöhyke)
-• luonnontilaiset ja luonnontilaisen kaltaiset fladat ja kluuvijärvet ranta-alueineen
+  eri-ikäisrakenteiset tai näkyvästi lahopuustoa sisältävät vesistöjen ja pienvesien reunametsät (vähintään 30 m puustoinen rantavyöhyke)
+  luonnontilaiset ja luonnontilaisen kaltaiset fladat ja kluuvijärvet ranta-alueineen
 (vähintään 30 m vyöhykkeellä)
-• maankohoamisrannikon metsien luonnontilaiset tai luonnontilaisen kaltaiset kehityssarjat tai yksittäiset edustavat kehityssarjan osat
-• vesitaloudeltaan luonnontilaiset ja luonnontilaisen kaltaiset korvet, rämeet, nevat, letot
+  maankohoamisrannikon metsien luonnontilaiset tai luonnontilaisen kaltaiset kehityssarjat tai yksittäiset edustavat kehityssarjan osat
+  vesitaloudeltaan luonnontilaiset ja luonnontilaisen kaltaiset korvet, rämeet, nevat, letot
 ja metsäluhdat
-• luonnontilaiset ja luonnontilaisen kaltaiset kitu- ja joutomaat.
+  luonnontilaiset ja luonnontilaisen kaltaiset kitu- ja joutomaat.
 Tähän listaan sopisi lisättäväksi seuraavat Suomen ympäristökeskuksen raportissa
 ”Luontotyyppisuojelun nykytilanne ja kehittämistarpeet – Lakisääteiset turvaamiskeinot” esiin nostetut metsäiset luontotyypit (Raunio ym. 2013):
-• dyynimetsät
-• karukkokankaat
-• ultraemäksisen maapohjan metsät
-• kalkkikalliot
-• serpentiinikalliot.
+  dyynimetsät
+  karukkokankaat
+  ultraemäksisen maapohjan metsät
+  kalkkikalliot
+  serpentiinikalliot.
 67
 Kaksi viimeistä luontotyyppiä kuuluvat kallioluontotyyppien pääryhmään, mutta niihin voi sisältyä myös puustoisia luontokohteita. ”Luontotyyppisuojelun nykytilanne
 ja kehittämistarpeet – Lakisääteiset turvaamiskeinot” -julkaisun (Raunio ym. 2013)
@@ -7242,7 +7242,7 @@ Svensberg, M. 2013. Kohti riistarikkaita reunoja. Vaihettumisvyöhykkeiden hoito
 https://riista.fi/wp-content/uploads/2013/03/vaihettumisvyohykkeiden_hoito_maastul.pdf
 72
 TARKASTELUSSA:
-• Mikä olisi ekologisesti kestävä energiapuun korjuun taso metsäekosysteemin kannalta tarkasteltuna? Miten paljon käsittelyalalle
+  Mikä olisi ekologisesti kestävä energiapuun korjuun taso metsäekosysteemin kannalta tarkasteltuna? Miten paljon käsittelyalalle
 tulisi jättää hakkuutähteitä ja sahakantoja?
 Energiapuun korjuu
 Tämä tarkastelu keskittyy energiapuun korjuun vaikutuksiin luonnon monimuotoisuuteen, maaperään ja vesistöihin, eikä tässä ole tarkasteltu energiapuun korjuun ja
@@ -8013,7 +8013,7 @@ Work, T.T., Andersson, J., Ranius, T. & Hjältén, J. 2016. Defining stump harve
 saproxylic beetle biodiversity. Forest Ecology and Management 371: 90–102.
 93
 TARKASTELUSSA:
-• Kasvatuslannoituksen vaikutukset luonnon monimuotoisuuteen ja
+  Kasvatuslannoituksen vaikutukset luonnon monimuotoisuuteen ja
 vesistöihin.
 Lannoitus
 Metsää lannoitetaan sen puuntuotoksen ja taloudellisen tuoton parantamiseksi. Ojitetuilla turvemailla ja metsitetyillä suopelloilla voi esiintyä myös ravinnehäiriöitä, joiden
@@ -8115,15 +8115,15 @@ typen otossa palautuu. Paljon vähemmän tiedetään typpilannoituksen vaikutuks
 kuolleen kasviaineksen lahottajasieniin, mutta todennäköisesti vaikutukset ovat vähäisempiä kuin mykorritsasieniin (Högberg ym. 2014).
 Typpilannoituksella on haitallisia vaikutuksia porojen ravintoon
 Lannoituksella on haitallinen vaikutus porotalouteen. Tämä johtuu useista syistä:
-• Lannoituksella on välitön negatiivinen vaikutus jäkälien kasvuun, sillä jäkälien sieni- ja
+  Lannoituksella on välitön negatiivinen vaikutus jäkälien kasvuun, sillä jäkälien sieni- ja
 leväosakkaat reagoivat eri tavalla typen määrän lisääntymiseen ja aineenvaihdunta
 näiden symbionttien välillä häiriintyy.
-• Puiden karikesato lisääntyy, ja lisääntynyt karikkeen määrä varjostaa jäkäliä.
-• Jäkälän peittävyys vähenee. Vaikutus on suurin karuimmilla kasvupaikoilla.
-• Typen saatavuuden paraneminen suosii jäkälän kanssa kilpailevia kasvilajeja.
-• Lannoitus voi vähentää varpujen määrää. Tämä voi epäsuotuisissa sääolosuhteissa
+  Puiden karikesato lisääntyy, ja lisääntynyt karikkeen määrä varjostaa jäkäliä.
+  Jäkälän peittävyys vähenee. Vaikutus on suurin karuimmilla kasvupaikoilla.
+  Typen saatavuuden paraneminen suosii jäkälän kanssa kilpailevia kasvilajeja.
+  Lannoitus voi vähentää varpujen määrää. Tämä voi epäsuotuisissa sääolosuhteissa
 lisätä jään muodostumista maan pinnalle, mikä vähentää jäkälien saatavuutta poroille.
-• On havaintoja siitä, että porot välttävät ruokailemista vasta lannoitetuissa metsissä.
+  On havaintoja siitä, että porot välttävät ruokailemista vasta lannoitetuissa metsissä.
 (Högberg ym. 2014)
 Typpilannoitteiden paremmuusjärjestys ympäristövaikutusten suhteen
 Stora Skogin lannoitusohjelman ympäristövaikutusten arvioinnissa (Westling & Nohrstedt 1995) asetettiin typpilannoitteita paremmuusjärjestykseen niiden tunnettujen
@@ -8225,7 +8225,7 @@ Westling, O. & Nohrstedt, H.-Ö. 1995. Miljökonsekvensbeskrivning av STORA SKOG
 Institutet för vatten- och lufvårdsforskning.
 100
 TARKASTELUSSA:
-• Maanmuokkauksen vaikutukset luonnon monimuotoisuuteen ja
+  Maanmuokkauksen vaikutukset luonnon monimuotoisuuteen ja
 vesistöihin.
 Maanmuokkaus
 Metsänuudistamisen yhteydessä käytetään yleensä koneellista maanmuokkausta.
@@ -8752,9 +8752,9 @@ Vanha-Majamaa, I. & Jalonen, J. 2001. Green Tree Retention in Fennoscandian Fore
 Research 16, suppl. 3: 79–90.
 115
 TARKASTELUSSA:
-• Mikä on päätehakkuualan kulotuksen ja säästöpuuryhmien tai puustoisten kohteiden polttojen ero ekologisen vaikuttavuuden kannalta?
-• Mikä olisi paloista riippuvaisen lajiston kannalta riittävä kulotusala?
-• Kuinka tiheän paloalueiden verkoston tai kuinka suuren vuosittaisen
+  Mikä on päätehakkuualan kulotuksen ja säästöpuuryhmien tai puustoisten kohteiden polttojen ero ekologisen vaikuttavuuden kannalta?
+  Mikä olisi paloista riippuvaisen lajiston kannalta riittävä kulotusala?
+  Kuinka tiheän paloalueiden verkoston tai kuinka suuren vuosittaisen
 palopinta-alan palaneesta maasta tai puusta riippuvaiset lajit Suomessa
 tarvitsisivat?
 Kulotukset ja
@@ -8904,12 +8904,12 @@ tyypeillä pitää välttää sellaisia toimia, jotka lisäävät ravinteisuutta
 Tästä syystä karuunnuttavia hoitotoimia, etupäässä polttoja tulee kiirehtiä”.
 Granström (2001) jäsenteli paloista hyötyvät lajit ja luontotyypit ryhmiin sen mukaan
 ovatko ne sijainniltaan muuttuvia vai paikoillaan pysyviä ja ovatko ne sidoksissa sukkession varhaisiin vai myöhäisiin vaiheisiin:
-• Sijainniltaan muuttuvia varhaisen sukkessiovaiheen lajeja ovat kovakuoriaiset.
-• Sijainniltaan muuttuvia myöhäisen sukkessiovaiheen luontotyyppejä ovat vanhat lehtipuuvaltaiset metsät ja niihin sidoksissa olevat lajit.
-• Paikoillaan pysyviä varhaisen sukkessiovaiheen lajeja ovat siemenpankissa esiintyvät
+  Sijainniltaan muuttuvia varhaisen sukkessiovaiheen lajeja ovat kovakuoriaiset.
+  Sijainniltaan muuttuvia myöhäisen sukkessiovaiheen luontotyyppejä ovat vanhat lehtipuuvaltaiset metsät ja niihin sidoksissa olevat lajit.
+  Paikoillaan pysyviä varhaisen sukkessiovaiheen lajeja ovat siemenpankissa esiintyvät
 kasvilajit.
 120
-• Paikoillaan pysyviä myöhäisen sukkessiovaiheen luontotyyppejä ovat monijaksoiset
+  Paikoillaan pysyviä myöhäisen sukkessiovaiheen luontotyyppejä ovat monijaksoiset
 mäntymetsät.
 Luonnonhoidollisilla kulotuksilla voi siis olla hyvin monia erilaisia tavoitteita, jotka
 vaikuttavat sekä kohdevalintaan että kulotuksen toteutustapaan.
@@ -9566,14 +9566,14 @@ Pitkällä aikavälillä korkeampiin luokkiin sijoitetuista
 lajeista suuremmalla osalla on riski hävitä verrattuna
 alempiin luokkiin sijoitettuihin lajeihin (ilman tehokkaita suojelutoimia).
 IUCN-luokituksen tavoitteena on:
-• tarjota käyttöön menetelmä, jota arvioijat voivat
+  tarjota käyttöön menetelmä, jota arvioijat voivat
 soveltaa yhdenmukaisella tavalla;
-• parantaa luokittelun objektiivisuutta antamalla
+  parantaa luokittelun objektiivisuutta antamalla
 käyttäjille selkeät ohjeet siitä, miten arvioida
 häviämisriskiin vaikuttavia eri tekijöitä;
-• luoda järjestelmä, jonka avulla helpotetaan
+  luoda järjestelmä, jonka avulla helpotetaan
 erilaisten taksonien tilanteen vertailua;
-• lisätä uhanalaisten lajien luetteloita käyttävien
+  lisätä uhanalaisten lajien luetteloita käyttävien
 ihmisten ymmärrystä yksittäisten lajien
 luokitteluperusteista.
 
@@ -10112,7 +10112,7 @@ harrastettujen eliöryhmien lajeja asiantuntijat eivät ole
 arvioineet hävinneiksi, vaikka viimeisistä havainnoista
 olisi hyvinkin pitkä aika. Epäilyjä voi vahvistaa elinympäristöjen taantuminen tai lajien tunnettu häviäminen
 muilta alueilta. Mahdollisesti hävinneet lajit on merkitty
-eliöryhmien Punaisiin listoihin uhanalaisuusluokan lyhenteeseen symbolilla •.
+eliöryhmien Punaisiin listoihin uhanalaisuusluokan lyhenteeseen symbolilla  .
 Suomesta mahdollisesti hävinneitä lajeja on 188, jotka
 kuuluvat yhdeksään eri eliöryhmään (taulukko 3). Reilusti yli puolet näistä on luokassa äärimmäisen uhanalaiset (CR). Eniten mahdollisesti hävinneitä lajeja on
 jäkälissä, 66 lajia ja sammalissa, 48 lajia. Myös kovakuoriaisista, kaksisiipisistä (etenkin kärpäsistä) ja pistiäisistä (erityisesti kätköpistiäisistä), on kustakin noin
@@ -12457,7 +12457,7 @@ Näkinpartaisten (Characeae) lajimääräksi on arvioitu
 maailmanlaajuisesti noin 450 (Krause 1997). Itämerestä tunnetaan 11 yksinomaan tai pääosin meressä elävää lajia, sekä 14 pääosin makeassa vedessä elävää lajia
 (Schubert & Blindow 2003) ja Suomestakin on tavattu 21
 näkinpartaislajia.
-Levät • Algae
+Levät   Algae
 150
 .
 Arviointi
@@ -12522,7 +12522,7 @@ americana) arvioitiin vaarantuneiksi (VU) ja helmisyherönauha (Kumanoa globospo
 (EN). Silmälläpidettäviksi (NT) arvioitiin tummatupsunauha (Batrachospermum atrum), helmitupsunauha (B.
 helminthosum), tankeatupsunauha (B. keratophytum), suotupsunauha (B. vogesiacum), kalkkisamettinauha (Sheathia boryana), nyppyharjaslevä (Lemanea mamillosa), jäyhäharjaslevä (L. rigida) ja puropunakalvo (Hildenbrandia
 rivularis). Näiden lajien uhanalaisuusluokat perustuivat
-Levät • Algae
+Levät   Algae
 151
 .
 pieniin havaintomääriin Suomessa tai koko Euroopassa
@@ -12613,7 +12613,7 @@ ole arvioinnin yhteydessä päivitetty.
 Sammalten suojelun ja tiedon lisäämisen kannalta
 keskeisimpiä ympäristöhallinnon hankkeita 2010-luvulla on ollut kiireellisintä suojelua tarvitsevien lajien valitseminen sekä lajisuojelun alueelliset priorisointineuRiikka Juutinen, Kimmo Syrjänen, Terhi Korvenpää, Tiina Laitinen, Inkeri Ahonen, Sanna Huttunen,
 Turkka Korvenpää, Timo Kypärä, Ari Parnela, Riitta Ryömä & Tauno Ulvinen
-Sammalet • Bryophytes
+Sammalet   Bryophytes
 Bryophyta
 vottelut (Kemppainen & Kaipiainen-Väre 2017). Monen
 vanhan havaintopaikan nykytila on saatu selvitettyä ja
@@ -12631,7 +12631,7 @@ selvästi lisääntynyt parissa vuosikymmenessä. Tähän on
 vaikuttanut sammalia käsittelevän määrityskirjallisuuden lisääntyminen (Hallingbäck ym. 2006, 2008, Hedenäs
 ym. 2014, Laine ym. 2009), sammaltyöryhmän laatimat
 Suomen sammalten ajantasaiset levinneisyystaulukot ja
-Sammalet • Bryophyta
+Sammalet   Bryophyta
 158
 .
 retkeilytoiminta. Suomeen on saatu vanhempien asiantuntijoiden tukemana useita uusia sammalharrastajia ja
@@ -12696,7 +12696,7 @@ nousikin arvioinnissa käytetyimmäksi kriteeriksi (631
 taksonia), myös D-kriteeriä käytettiin usein (154 taksonia). Monen lajin uhanalaisuusluokka nousi yksilömäärään perustuvien kriteerien käyttöönoton vuoksi.
 Taantumiseen liittyvää A-kriteeriä käytettiin aiempaa
 harvemmin ja tiukemmin (19 taksonia). A-kriteerin käyttöön edellytettiin tutkimuspohjaista tietoa elinympäris-
-Sammalet • Bryophyta
+Sammalet   Bryophyta
 159
 .
 tön taantumisesta ja taantumisen edellytettiin kohdistuvan tunnettuihin esiintymiin, ei vain lajille tyypilliseen
@@ -12834,7 +12834,7 @@ työstetty kirjoiksi asti. Edellisen arvioinnin (Kalliovirta
 ym. 2010) jälkeen ilmestyneitä kirjoja ovat muun muassa
 Suomen uhanalaiset kasvit (Ryttäri ym. 2012), SatakunTerhi Ryttäri, Martina Reinikainen, Carl-Adam Hæggström, Sirkka Hakalisto, Johanna Hallman, Tiina Kanerva,
 Pauliina Kulmala, Jussi Lampinen, Mikko Piirainen, Veli-Pekka Rautiainen, Tapio Rintanen & Outi Vainio
-Putkilokasvit • Vascular Plants
+Putkilokasvit   Vascular Plants
 Tracheophyta
 nan kasvit (Suominen 2013) ja uusi korjattu painos Ahvenanmaan kasveista (Hæggström & Hæggström 2012).
 Kasviharrastajien lehdet Lutukka ja Talvikki ovat tärkeitä tietolähteitä, kuten myös monet julkaisemattomat,
@@ -12851,7 +12851,7 @@ Arviointi
 Työskentelyn pohjana oli Suomen Lajitietokeskuksen nimistöluettelo Suomen putkilokasveista. Luokittelussa on
 mukana kaikkiaan noin 3 200 taksonia (lajeja, alalajeja,
 variaatioita). Arvioimatta jätettyjen (NE) luokkaan sijoi-
-Putkilokasvit • Tracheophyta
+Putkilokasvit   Tracheophyta
 183
 .
 tettiin joukko apomiktisesti lisääntyviä pikkulajeja mm.
@@ -12925,7 +12925,7 @@ F3:@$./23:'"/'"'
 50&5&02.&-'&='"//3//3:'
 2"?"'CDE
 9#2%.$&%"/1.28'!0">,3&5,G2" H(IH IIJK HJL HI8M
-Putkilokasvit • Tracheophyta
+Putkilokasvit   Tracheophyta
 184
 .
 tulkinnan suhteen tiukentunutta D-kriteeriä enää 32 kertaa. D-kriteerin perusteella uhanalaisiksi tulivat muun
@@ -12991,7 +12991,7 @@ uhanalaisten lajien elinympäristöjä, kuten hiekkarantoja
 => ?= >6 @A 6! BB C? 6D 6>
 +#,%-$&%"./-,E''
 !4"8F1&9F;," GH HI GJG KL GMI I NJG GMLI IK(
-Putkilokasvit • Tracheophyta
+Putkilokasvit   Tracheophyta
 185
 .
 ja muita paahdeympäristöjä ja Luomuksen johtamassa
@@ -13028,7 +13028,7 @@ kokonaan arvioinnin ulkopuolelle.
 Tässä luokittelussa on mukana yhteensä 5 335 sienilajia tai lajia alempaa taksonia (jäkälät eivät sisälly edellä
 mainittuun lukumäärään). Arvioituja lajeja on yhteensä
 3 973. Sienten uhanalaisuuden arvioinnin toteutti Sienityöryhmä.
-Sienet • Fungi
+Sienet   Fungi
 Fungi
 Maailmasta on kuvattu vain noin 120 000 sienilajia
 (mukaan lukien jäkälät) ja kokonaisdiversiteetin arvioidaan olevan 2,2–3,8 miljoonaa eli yli 90 % sienilajeista on
@@ -13038,7 +13038,7 @@ edellisen uhanalaisuusarvioinnin jälkeen. Nimistö on
 yhä muutoksessa. Suomen sienilajistokin tunnetaan vielä varsin huonosti. Uusia sienilajeja kuvataan tieteelle ja
 Suomesta löydetään uusia lajeja joka vuosi.
 Tea von Bonsdorff
-Helttasienet ja tatit • Agaricoid & Boletoid fungi
+Helttasienet ja tatit   Agaricoid & Boletoid fungi
 204
 .
 Lajisto ja tiedon taso
@@ -13061,7 +13061,7 @@ kertynyt. Tieteellinen nimistö koostuu uusimpien taksonomisten julkaisujen, Ind
 (Index Fungorum Partnership 2018) ja osin vielä Funga
 Tea von Bonsdorff, Tuula Niskanen, Ilkka Kytövuori, Jukka Vauras, Kare Liimatainen, Paavo Höijer,
 Anna Liisa Ruotsalainen, Pertti Salo, Esteri Ohenoja, Lasse Kosonen & Seppo Huhtinen
-Helttasienet ja tatit • Agaricoid and Boletoid fungi
+Helttasienet ja tatit   Agaricoid and Boletoid fungi
 Nordican (Knudsen ym. 2012) käyttämästä nimistöstä.
 Suomenkieliset nimet on hyväksynyt Suomen Sieniseura
 ry:n yhteydessä toimiva nimistötoimikunta.
@@ -13081,7 +13081,7 @@ Arvioinnin tukena käytetyt tärkeimmät aineistot ovat
 muun muassa luonnontieteelliset kokoelmat, Sieniatlas-kansalaistiedehanke -aineisto, ympäristöhallinnon
 Hertta Eliölajit -tietojärjestelmän aineistot ja yksityiset
 kokoelmat.
-Helttasienet ja tatit • Agaricoid & Boletoid fungi
+Helttasienet ja tatit   Agaricoid & Boletoid fungi
 205
 .
 Suurimmat määrälliset luokkamuutokset ovat tapahtuneet puutteellisesti tunnettujen (DD) ja arvioimatta
@@ -13149,7 +13149,7 @@ I3$22"/.3-32'4"'2"2.28'
 HR SH R< T+ <! UU DS <> <R
 I3$22"/.3-32'4"'2"2.28'
 >?"0.@&.:'J'A&$32&.:'=#-?. K )V (O OW )LP PPK )KNV KP NW
-Helttasienet ja tatit • Agaricoid & Boletoid fungi
+Helttasienet ja tatit   Agaricoid & Boletoid fungi
 206
 .
 lajien etsintäkuulutukset toivat tärkeää tietoa useiden
@@ -13216,7 +13216,7 @@ ym. 2013, Spirin ym. 2015) sekä tiede- ja harrastajapiirien
 läheisen yhteistyön kautta. Myös ympäristöhallinnon
 Heikki Kotiranta, Kaisa Junninen, Panu Halme, Ilkka Kytövuori, Tea von Bonsdorff,
 Tuula Niskanen & Kare Liimatainen
-Kääväkkäät • Aphyllophoroid fungi
+Kääväkkäät   Aphyllophoroid fungi
 Hertta Eliölajit -tietojärjestelmä, Suomen Lajitietokeskuksen portaali sekä harrastajien omat tietokannat ovat
 helpottaneet arviointia. Puutteita on kuitenkin vielä
 etenkin uusien lajien ja muiden kääväkkäiden kuin kääpien levinneisyystiedoissa.
@@ -13234,7 +13234,7 @@ Niskanen ym. 2018). Ajantasaisin tieto käävistä on koottuna Suomen käävät 
 merkittävä tietolähde kääpälajien arvioinnissa. Kaikki
 Suomesta tunnetut lajit pyrittiin arvioimaan, mutta tietopuutteiden takia 47 lajia (5 % kaikista lajeista) jäi lopulta
 arvioinnin ulkopuolelle (NE, NA) (taulukko 35).
-Kääväkkäät • Aphyllophoroid fungi
+Kääväkkäät   Aphyllophoroid fungi
 235
 .
 Kääväkäspopulaatioiden koon laskentatapa ja populaatiokoon muutosten tarkastelujaksot olivat samoja
@@ -13301,7 +13301,7 @@ GR SG R; T+ ;! UU CS ;= ;R
 H551527'8&$?>&03/ K J K) IN )N J K)O Q )
 M##2'%5515%%5527'&2,30'=>,?$$&>,&0&.9'<#-@. K V N IN IQ (O VOV KL KV
 P,233-/5'7'!&2"$ I KK IK J) NJ (J N)V IN IO
-Kääväkkäät • Aphyllophoroid fungi
+Kääväkkäät   Aphyllophoroid fungi
 236
 .
 tumisen yhtenä syynä on jokin metsiin liittyvä muutos.
@@ -13372,7 +13372,7 @@ voivat elää jopa satoja vuosia, ja hitaasti kuollessaan ne
 muodostuvat kemiallisesti erityislaatuisiksi keloiksi (Venugopal ym. 2016). Pienikokoisella lahopuulla on osin
 oma, erikoistunut lajistonsa (Juutilainen ym. 2017), mutta pienellä lahopuulla elää huomattavasti vähemmän
 uhanalaista lajistoa kuin suuriläpimittaisilla rungoilla.
-Kääväkkäät • Aphyllophoroid fungi
+Kääväkkäät   Aphyllophoroid fungi
 237
 .
 Ennallistamistoimenpiteiden pitkäaikaisista vaikutuksista kääväkkäisiin ja etenkin uhanalaisiin lajeihin
@@ -13409,7 +13409,7 @@ ilmestyi äskettäin uusi pohjoiseurooppalaisiin kupusieniin keskittyvä kirja (
 arvioinnissa.
 Tea von Bonsdorff, Mauri Lahti, Jukka Vauras, Seppo Huhtinen, Anna Liisa Ruotsalainen,
 Esteri Ohenoja, Lasse Kosonen & Pertti Salo
-Kupusienet • Gasteroid fungi
+Kupusienet   Gasteroid fungi
 Arvioinnin perustana on käytetty edellisen arvioinnin lajiluetteloa (von Bonsdorff ym. 2010). Tämä nimistö
 siirrettiin Suomen Lajitietokeskuksen nimistöluetteloon,
 jota on muokattu sitä mukaa, kun uutta tietoa on kertynyt. Tieteellinen nimistö koostuu uusimpien taksonomisten julkaisujen, Index Fungorum -tietokannan (Index Fungorum Partnership 2018) ja lisäksi osin Funga
@@ -13425,7 +13425,7 @@ Tässä tarkastelussa kupusieniä on yhteensä 81 lajia.
 Luokittelussa mukana olleista 81 lajista 70 lajin (86 %)
 uhanalaisuus voitiin arvioida ja vain 11 lajia (14 %) jouduttiin jättämään arvioinnin ulkopuolelle (NA/NE)
 (taulukko 37).
-Kupusienet • Gasteromycetoid fungi
+Kupusienet   Gasteromycetoid fungi
 249
 .
 !"#$#%%&'()*'+,"-"$"./##/"01.&.--.//"'$#&%.23$2#43-'%#5#/.3-.$"4.3-'677078'"01.&.2#43-'$"4.3-'677078'9#-"./3-'$./2"-'$"4.3-'67707'4"'
@@ -13495,7 +13495,7 @@ uhanalaisen lajin luokka ei ole noussut. Edellisen arvioinnin uhanalaisista arvi
 kangastuhkelo (Bovista aestivalis, ennen VU), joka on
 kymmenen vuoden aikana osoittautunut selvästi runsaammaksi ja vähemmän vaateliaaksi kuin on aiemmin
 tiedetty (taulukko 39).
-Kupusienet • Gasteromycetoid fungi
+Kupusienet   Gasteromycetoid fungi
 250
 .
 Suojelu ja seuranta
@@ -13537,7 +13537,7 @@ Bonsdorff ym. 2016, Kekki 2017a, Kekki 2017b, Kosonen
 yhteistyön kautta (Halme ym. 2018).
 Seppo Huhtinen, Unto Söderholm, Tea von Bonsdorff, Jenna Purhonen, Timo Kosonen, Tapio Kekki,
 Panu Halme, Esteri Ohenoja, Anna Liisa Ruotsalainen & Pertti Salo
-Kotelosienet • Ascomycetes
+Kotelosienet   Ascomycetes
 Ascomycota
 Arviointi
 Tarkastelussa mukana olleista 2 182 lajista 999 lajin (46 %)
@@ -13559,7 +13559,7 @@ ovat luonnontieteelliset kokoelma-aineistot, Sieniatlas-kansalaistiedehankeainei
 Hertta Eliölajit -tietojärjestelmän aineisto ja yksityiset
 kokoelmat. Resurssit määritystyöhön ovat olleet edelleen
 niukat, ja arvioinnin kattavuus on edelleen heikko.
-Kotelosienet • Ascomycota
+Kotelosienet   Ascomycota
 254
 .
 Arvioinnissa käytetyn tarkastelujakson pituuteen
@@ -13628,7 +13628,7 @@ rupijäkälät (Stenroos ym. 2015) ja Lichens of Finland
 teettämät lajistokartoitukset ovat tuottaneet uutta tietoa
 suojelualueiden uhanalaisista ja silmälläpidettävistä jäkälistä. Rahoitusta uhanalaistarkastelua hyödyttäviin
 tieteellisiin tutkimuksiin on tullut lähes ainoastaan ymJuha Pykälä, Kimmo Jääskeläinen, Heini Rämä, Annina Launis, Orvo Vitikainen & Arto Puolasmaa
-Jäkälät • Lichens
+Jäkälät   Lichens
 Lichenes
 päristöministeriön Puutteellisesti tunnettujen ja uhanalaisten metsälajien tutkimusohjelmasta (Putte). Jäkälien
 maastokartoitukset ovat kuitenkin vähentyneet edelliseen ajanjaksoon verrattuna. Kokonaisuutena kulunut
@@ -13646,7 +13646,7 @@ kesken. Jäkälien arvioinnista vastasi jäkälätyöryhmä.
 Jäkälien sukupolven pituutta on erittäin vaikea määritellä, mutta yleisesti sen arvioidaan olevan hyvin pitkä. Tässä tarkastelussa kolmen sukupolven pituutena
 käytettiin jäkälillä 50 vuotta ja jäkälillä elävillä sienillä
 kolmen sukupolven pituudeksi päätettiin 40 vuotta. Epifyyttisillä lajeilla jokainen esiintymisrunko arvioitiin
-Jäkälät •yhdeksi yksilöksi. Kallioilla kasvavien lajien kasvustoista yhdeksi yksilöksi arvioitiin yksi neliömetri. Tiedon
+Jäkälät  yhdeksi yksilöksi. Kallioilla kasvavien lajien kasvustoista yhdeksi yksilöksi arvioitiin yksi neliömetri. Tiedon
 määrä vaihtelee eri lajien välillä suuresti. Siksi yksilömäärät arvioitiin suuremmaksi kuin tunnetut esiintymät. Kertoimet vaihtelivat laajoissa rajoissa (2–1 000
 kertaa tunnettu populaatiokoko) perustuen asiantuntijoiden arvioihin tutkimustarkkuudesta ja mahdollisten
 elinympäristöjen määrästä.
@@ -13677,7 +13677,7 @@ tästä syystä. Kolmanneksi merkittävin uhanalaisuuden
 syy on kemialliset haittavaikutukset (etenkin rehevöityminen ja happamoituminen) (11 % lajeista).
 Metsien hakkuut ovat myös merkittävin tulevaisuuden uhka. Ne uhkaavat ensisijaisesti 38 %:a uhanalaisista
 jäkälistä. Kemialliset haittavaikutukset arvioidaan suurimmaksi uhaksi 14 %:lla lajeista (etenkin typpipäästöt).
-Jäkälät • Lichenes
+Jäkälät   Lichenes
 265
 .
 Uhanalaisista jäkälistä 13 %:a uhkaa ensisijaisesti rakentaminen. Suurin rakentamisen uhka koskee kalkkikallioiden sekä rantametsien ja rantakallioiden lajistoa.
@@ -13777,7 +13777,7 @@ ole. Murtovesisientä tavataan muualla myös makeissa
 vesissä, mutta meillä on vain vähän julkaistuja havaintoja sisävesistä.
 Katriina Könönen, Risto Väinölä, Hanna-Kaisa Lakka & Ari O. Laine
 Sienieläimet, polttiaiseläimet, sammaleläimet,
-makkaramadot ja limamadot • Sponges, Cnidarians,
+makkaramadot ja limamadot   Sponges, Cnidarians,
 Bryozoans, Priapulids and Nemerteans
 Porifera, Cnidaria, Bryozoa, Priapulida & Nemertea
 Polttiaiseläimet (Cnidaria) on noin 13 000 lajia käsittävä pääjakso (Zhang 2013, WoRMS 2018). Suomessa
@@ -13824,7 +13824,7 @@ Sundberg 2010).
 Näitä eläinryhmiä ei meillä juuri tutkita tai kartoiteta
 erikseen, mutta osasta saadaan havaintoja ympäristöhallinnon pohjaeläinseurannoista ja velvoitetarkkailuista.
 Sienieläimet, polttiaiseläimet, sammaleläimet, makkaramadot
-ja limamadot • Porifera, Cnidaria, Bryozoa, Priapulida, Nemertea
+ja limamadot   Porifera, Cnidaria, Bryozoa, Priapulida, Nemertea
 
 Havaintotietoja ei ole koottu yhteen, vaan ne ovat hajallaan eri julkaisuissa ja yleisemmissä pohjaeläinselvityksissä. Seurantahavainnot on koottu ympäristöhallinnon
 Hertta Pohjaeläintietojärjestelmään (POHJE). Yleisempien merilajien levinneisyydestä on viime vuosina saatu
@@ -13972,7 +13972,7 @@ lajista uhanalaisia on kaksi, vaarantunut (VU) vuollejokisimpukka ja erittäin u
 on 52, joista silmälläpidettäväksi (NT) on luokiteltu matalissa lammikoissa tai rannoilla elävä luhtakiekkokotilo (Anisus leucostoma, edellisessä arvioinnissa nimellä
 A. septemgyratus, Glöer & Meier-Brook 2008) ja syvännehernesimpukka (Pisidium dilatatum). Varsinaisista merilajeista Punaisella listalla on vain ruskomerietana (Alderia
 modesta, NT).
-Nilviäiset • Mollusca
+Nilviäiset   Mollusca
 320
 .
 Useat edellisessä arvioinnissa silmäpidettäviksi (NT)
@@ -14052,7 +14052,7 @@ baltica ja Terebellides stroemii, jotka näyttävät esiintyvän
 Suomen aluevesillä vain ajoittain suolapulssien seurauksena. Niistä on havaintoja 1970–1980-luvuilta (Bonsdorff
 1981, tutkimusalus Arandan havaintoaineisto).
 Ari O. Laine, Katriina Könönen, Risto Väinölä, Ulla-Maija Liukko & Hanna-Kaisa Lakka
-Nivelmadot • Annelids
+Nivelmadot   Annelids
 Annelida
 Juotikkaat (16 lajia) taas ovat pääasiassa sisävesieläimiä, mutta niistäkin osa elää myös murtovedessä (Koli ja
 Terhivuo 1986, Timm 1999). Osasta juotikaslajeista esiintymistieto on melko satunnaista, koska näytteenotto lajien elinympäristössä, rantavyöhykkeessä, on vähäistä.
@@ -14186,7 +14186,7 @@ uhanalaisuusarvioinnin yhteydessä (Huhta ym. 2010a).
 Varhaisimmat tutkimukset Suomen sammal- ja petopunkeista ovat 1900-luvun alkupuolelta. Aktiivista
 Riikka Elo, Niclas Fritzén, Veikko Huhta, Seppo Koponen, Pekka T. Lehtinen,
 Timo Pajunen, Ritva Penttinen & Annika Uddström
-Hämähäkkieläimet • Arachnids
+Hämähäkkieläimet   Arachnids
 Arachnida
 tutkimusta on sammalpunkeista tehty vasta noin puoli
 vuosisataa ja petopunkeista neljä vuosikymmentä. Viimeisin julkaistu lajiluettelo sammalpunkeista on vuodelta 1997 (Niemi ym.). Petopunkkien tuorein lajiluetteloon
@@ -14204,7 +14204,7 @@ vastaaviksi. Petopunkkeja tunnetaan Suomesta 453 lajia, joista noin puolet katso
 kymmenkunta lajia, joista kaksi yleistä ja vakiintunutta
 lajia vastaa häviämisriskiltään elinvoimaisia. Tiedon lisääntyessä lisätutkimusten myötä voidaan toivottavasti
 tulevaisuudessa arvioida myös sammal- ja petopunkkien sekä puutiaisten uhanalaisuus.
-Hämähäkit • Araneae
+Hämähäkit   Araneae
 329
 .
 Lajisto ja tiedon taso
@@ -14225,7 +14225,7 @@ Perusaineisto on kerätty suurelta osin 1930–1980-luvuilla
 eikä osasta lajistoa ole tämän aikakauden jälkeisiä havaintoja. Joitakin havaintoja uhanalaisista hämähäkeistä
 on saatu 2000-luvulla lisääntyneen hämähäkkiharrastuksen kautta.
 Timo Pajunen, Seppo Koponen, Niclas R. Fritzén & Pekka T. Lehtinen
-Hämähäkit • Spiders
+Hämähäkit   Spiders
 Araneae
 Arviointi
 Hämähäkkien uhanalaisuuden arviointia varten perustettiin työryhmä vuonna 2005. Hämähäkkityöryhmä
@@ -14247,7 +14247,7 @@ lisänneet tietoa lajien levinneisyydestä ja yleisyydestä.
 Yli puolesta edellisen Punaisen listan (Pajunen ym. 2010)
 lajeista on tehty havaintoja nykyisen arviointijakson
 (2010–2018) aikana.
-Hämähäkit • Araneae
+Hämähäkit   Araneae
 330
 .
 Yhteensä käsiteltiin 644 hämähäkkilajia, joista 26
@@ -14374,7 +14374,7 @@ takapäässä.
 Lukkeja elää monenlaisissa ympäristöissä, niitä voi
 tavata niin metsissä, niityillä, kaupungeissa kuin rannoillakin. Eniten lukkeja esiintyy varjoisissa, jatkuvasti
 Annika Uddström & Veikko Rinne
-Lukit ja valeskorpionit • Harvestmen and Pseudoscorpions
+Lukit ja valeskorpionit   Harvestmen and Pseudoscorpions
 Opiliones & Pseudoscorpiones
 sopivan kosteina pysyvissä ympäristöissä. Monille tutuimpia ovat rakennusten seinillä ja puunrungoilla viihtyvät lajit, mutta iso osa lukeista elää karikekerroksessa.
 Useimmat lukkilajit suosivat ravintonaan muita selkärangattomia, mutta suurin osa lajeista on moniruokaisia,
@@ -14394,7 +14394,7 @@ yhteydessä museoihin, tutkijoille ja harrastajille. Saatavilla olleet havaintot
 Puutteellisesti tunnettujen ja uhanalaisten metsälajien
 tutkimusohjelman (Putte) hankkeessa Suomen lukit ja
 valeskorpionit (Uddström & Rinne 2016). Samalla mää-
-Lukit ja valeskorpionit •
+Lukit ja valeskorpionit  
 ritettiin aiemmin määrittämättömiä aineistoja. Hyönteisja hämähäkkieläinharrastajien keskuudessa oli herännyt
 kiinnostusta lukkeihin ja valeskorpioneihin jo ennen kyseistä hanketta, minkä ansiosta uutta aineistoa oli kerätty ja otettu talteen muiden pyyntien yhteydessä aiempaa
 enemmän. Tietämys monien lukki- ja valeskorpionilajien levinneisyydestä, yleisyydestä ja elinympäristövaatimuksista on muuttunut suuresti näiden tutkijoilta ja
@@ -14429,7 +14429,7 @@ enemmän kuin vuonna 2010. Viisi lajeista on sijoitettu uusina luokkaan arvioint
 Yhden lajin levinneisyysalue osoittautui kuitenkin niin
 laajaksi, että laji on epäilemättä esiintynyt Suomessa jo
 pitkään, joten laji otettiin arviointiin mukaan.
-Lukit ja valeskorpionit • Opiliones & Pseudoscorpiones
+Lukit ja valeskorpionit   Opiliones & Pseudoscorpiones
 338
 .
 Uhanalaisuus
@@ -14494,7 +14494,7 @@ havaintotietojen tallennusta maassamme ei ole järjestetty. Ruotsin lajihankkeen
 tuhatjalkaisista (Andersson ym. 2005) sisältää kuitenkin
 koko pohjoismaisen lajiston ja siihen on päivitetty lajien
 Varpu Vahtera
-Tuhatjalkaiset • Myriapods
+Tuhatjalkaiset   Myriapods
 Myriapoda
 esiintymistiedot Suomessa. Pohjoismaisessa tuhatjalkaisten luettelossa (Andersson ym. 2008) on luettavissa
 tuhatjalkaisten levinneisyydet maakunnittain. Ruotsin
@@ -14575,7 +14575,7 @@ ovat siirat (Isopoda), katkat (Amphipoda), massiäyriäiset
 sekä luokan Branchiopoda niin kutsutut suuret kidusjalkaiset lahkoista Notostraca (kilpikidusjalkaiset) ja Anostraca (lehtijalkaiset). Mikroäyriäisiä puolestaan ovat
 Risto Väinölä, Katriina Könönen, Hanna-Kaisa Lakka, Annika Uddström, Ilpo Mannerkoski,
 Esa Erkamo, Heidi Arponen, Essi Keskinen, Maiju Lanki & Ari O. Laine
-Äyriäiset • Crustaceans
+Äyriäiset   Crustaceans
 Crustacea
 eläinplanktonin pääryhmät hankajalkaiset (Copepoda:
 Calanoida ja Cyclopoida), vesikirput (Branchiopoda: Cladocera) sekä pienikokoisen pohjafaunan raakkuäyriäiset
@@ -14711,7 +14711,7 @@ Aikaisempi pieni hyönteislahko kolmisukahäntäiset
 siimahäntäiset ovat kaikkien muiden hyönteisten sisarryhmä. Nämä ryhmät ovat hyvin vanhoja ja monet nykyisistä heimoista tunnetaan jo yli 200 miljoonan vuoden takaisista fossiileista (Mendes 2002). Tässä tekstissä
 ryhmiä käsitellään yhdessä.
 Ilpo Mannerkoski
-Kolmisukahäntäiset • Silverfish and Bristletails
+Kolmisukahäntäiset   Silverfish and Bristletails
 Thysanura
 Kolmisukahäntäisillä ei ole kehittyneemmille hyönteislahkoille tyypillistä muodonvaihdosta, ainoastaan
 sukukypsyys erottaa aikuiset nuoruusasteista ja nahanluonnit jatkuvat myös aikuisvaiheella. Siimahäntäiset
@@ -14763,7 +14763,7 @@ Vesihyönteistyöryhmän toiminnalla on ollut tärkeä
 rooli päivänkorentojen uhanalaisuusarvioinnissa. Toiminta on painottunut etenkin Itä- ja Pohjois-Suomeen ja
 näiden alueiden lajisto tunnetaan melko hyvin. Sen sijaan eteläisten ja läntisten maakuntien lajisto tunnetaan
 Pekka Majuri & Eino Savolainen
-Päivänkorennot • Mayflies
+Päivänkorennot   Mayflies
 Ephemeroptera
 verrattain huonosti. Joidenkin korkeassa häviämisriskissä olevien lajien esiintymiä on seurattu 2010-luvulla
 lähes vuosittain. Monien uhanalaisten ja harvinaisten
@@ -14783,7 +14783,7 @@ Arvioinnin perusteena käytettiin pääosin Savolaisen
 -tietojärjestelmän sekä vesihyönteistyöryhmän keräämiä tietoja. Lisäksi arvioinnissa käytettiin soveltuvin
 osin ympäristöhallinnon Hertta Pohjaeläinrekisterin ja
 yksityishenkilöiltä saatuja tietoja.
-Päivänkorennot •
+Päivänkorennot  
 Uhanalaisuusarviointi tehtiin 52 lajille (taulukko 65).
 Määritysongelmien ja -epäselvyyksien vuoksi kaikki
 Suomessa esiintyvät neljä Cloeon-suvun lajia jätettiin arvioimatta (NE). Outosurviaisen (Baetis scambus) todettiin
@@ -14872,7 +14872,7 @@ Monet sudenkorentolajit ovat ilmastonmuutoksen
 myötä levinneet entistä pohjoisemmaksi. Idänkirsikorento (Sympecma paedisca) ja etelänukonkorento (Aeshna
 mixta) havaittiin Suomessa ensimmäistä kertaa 2002.
 Sami Karjalainen
-Sudenkorennot • Dragonflies and Damselflies
+Sudenkorennot   Dragonflies and Damselflies
 Odonata
 Niistä on saatu tämän jälkeen runsaasti havaintoja ja
 myös varmoja todisteita lisääntymisestä. Molempia voidaan pitää jo Suomeen vakiintuneina. Muiden Suomelle
@@ -14931,7 +14931,7 @@ Tundrakiiltokorento (Somatochlora sahlbergi) esiintyy
 vain Pohjois-Lapissa. Sen uhka on ilmastonmuutos. Vielä
 ei ole kuitenkaan viitteitä siitä, että populaatiot olisivat
 pienenemässä, joten laji arvioitiin elinvoimaiseksi (LC).
-Sudenkorennot • Odonata
+Sudenkorennot   Odonata
 357
 .
 Suojelu, seuranta ja tutkimus
@@ -14965,7 +14965,7 @@ Uusia havaintoja erityisesti levinneisyydeltään pohjoisista lajeista on kertyn
 ja lähdepuroissa elävästä etelänkoipikorrista (Nemoura
 dubitans) on tehty uusia havaintoja kohdennettujen selvitysten avulla, ja toisaalta helposti tunnistettavia vantaankorrin (Rhabdiopteryx acuminata) toukkia on löydetty
 Jari Ilmonen
-Koskikorennot • Stoneflies
+Koskikorennot   Stoneflies
 Plecoptera
 uusilta alueilta pohjaeläinselvityksissä ja -seurannoissa.
 Lisäksi pohjoisista lajeista rantusiipikorrin (Brachyptera
@@ -15020,7 +15020,7 @@ useimmiten pienialaisia, luonnontilaltaan muuttuneita
 lähteikköjä, mikä on uhanalainen luontotyyppi (Lammi
 ym. 2018). Molempien lajien elinympäristöjä uhkaavat
 erilaiset rakennus- ja perkaustoimet (esim. kunnostusojitus, turpeenotto) ja niiden tuottamat kemialliset haittavaikutukset (kiintoaineskuormitus, rehevöityminen).
-Koskikorennot • Plecoptera
+Koskikorennot   Plecoptera
 360
 .
 Edellisellä kerralla arvioimatta jätetty (NE) Capnia vidua arvoitiin nyt puutteellisesti tunnetuksi (DD). Tietämys lajin esiintymisestä ja ekologiasta ei ole parantunut
@@ -15065,7 +15065,7 @@ ryhmän harrastajia on ollut vain muutamia. Niinpä tiedon kertyminen on ollut n
 lajien levinneisyys ja kannan kehitys tunnetaan puutteellisesti. Varsinkin Pohjois-Suomessa suorasiipishavaintoja on tehty hyvin vähän. Vuonna 2003 perustettu
 Hemiptera-työryhmä otti myös suorasiipiset samoin
 Ilpo Mannerkoski
-Suorasiipiset, pihtihäntäiset ja torakat •
+Suorasiipiset, pihtihäntäiset ja torakat  
 Orthoptera, Earwigs and Cockroaches
 Orthoptera, Dermaptera & Blattodea
 kuin pihtihäntäiset ja torakat kohderyhmikseen. Suorasiipishavaintoja on työryhmän toimesta kerätty tietokantaan ja niistä on tehty levinneisyyskartat. Karttoja ei
@@ -15185,7 +15185,7 @@ abioottisia olosuhteita, kuten maaperää tai mikroilmastoa (esim. Nickel 2003).
 viljelykasveille, ja voivat myös levittää haitallisia viruksia. Varsin moni Suomessa tavattu laji onkin kulkeutunut tänne ihmisen tuomien kasvien mukana tai myöhemmin asettunut Suomessa viljeltyihin koristepuihin,
 -pensaisiin ja -kasveihin. Maastamme on myös tavattu
 Anders Albrecht, Ilpo Mannerkoski, Petri Metsälä & Petri Parkko
-Nivelkärsäiset • Hemipterans
+Nivelkärsäiset   Hemipterans
 Hemiptera
 yli 30 lajia, jotka esiintyvät vain sisätiloissa, erityisesti
 kasvihuoneissa, eivätkä pysty muodostamaan kantoja
@@ -15297,7 +15297,7 @@ ja ne kuuluvat 782 sukuun (ThripsWiki 2018). Pohjoismaista (Suomi, Ruotsi, Norja
 noin 200 lajia, joista 145 esiintyy Suomessa (Kobro 2011,
 Gertsson 2015).
 Jukka Kettunen
-Ripsiäiset • Thrips
+Ripsiäiset   Thrips
 Thysanoptera
 Suuri osa lajeista käyttää ravinnokseen kasvinesteitä
 tai siitepölyä, loput ovat sienirihmaston tai -itiöiden syöjiä ja petoja. Monien pistinripsiäisaikuisten ruokailukasvit ovat usein muita kuin toukkien ravintokasvit, mikä
@@ -15360,7 +15360,7 @@ vuonna 2010 (Kanervo & Söderman 2010). Suomen jäytiäislajeista arvioitiin 54 
 perustana on käytetty levinneisyyskarttoja, joissa näkyvät myös ajanjaksot, joina lajia on löydetty. Tietokannan
 havainnoista noin neljäsosa on tehty viimeisen kymmenen vuoden aikana. Jäytiäisten arvioinnissa on käytetty
 Juhani Kanervo
-Jäytiäiset • Psocids
+Jäytiäiset   Psocids
 Psocoptera
 vain kriteeriä B eli arviointi on tehty levinneisyys- tai
 esiintymiselinympäristöjen taantumisen perusteella.
@@ -15422,7 +15422,7 @@ ovat usein elintavoiltaan pitkälle erikoistuneita, eläen
 esimerkiksi vain yhden kasvilajin varassa. Kovakuoriaisiin kuuluu petoja, kasvinsyöjiä, sienensyöjiä, jopa loisia,
 Sampsa Malmberg, Ilpo Mannerkoski, Petri Martikainen, Tom Clayhills, Eero Helve,
 Esko Hyvärinen, Seppo Karjalainen, Jaakko Mattila, Jyrki Muona & Pertti Rassi
-Kovakuoriaiset • Beetles
+Kovakuoriaiset   Beetles
 Coleoptera
 ja niitä elää muun muassa vedessä, maaperässä, karikkeessa, ruohovartisilla kasveilla ja lahopuilla. Kovakuoriaisten merkitys ravintoverkoissa ja ekosysteemien toiminnassa on suuri.
 Edellisen lajien uhanalaisuuden arvioinnin (Hyvärinen ym. 2010) jälkeen tiedon kartuttaminen Suomen
@@ -15439,7 +15439,7 @@ Nimistö ja systematiikka noudattavat muutamia tuoreita lisäyksiä lukuun ottam
 Tämä nimistö pohjautuu 2000-luvulla ilmestyneeseen
 kahdeksanosaiseen palearktisten kovakuoriaisten luetteloon, jonka on Suomen oloihin soveltanut Silfverberg
 (2010; 2013; 2014a; 2014b).
-Kovakuoriaiset •
+Kovakuoriaiset  
 Suomen 3 813 kovakuoriaislajista 3 519 lajin uhanalaisuus voitiin arvioida (taulukko 84). Arvioimatta (NE)
 jätettiin lajit (14 lajia, alle 0,4 %), joiden lajistatus tai Suomesta tunnettujen yksilöiden määritys on toistaiseksi
 epäselvä. Vakiintumattomat, satunnaiset, ainoastaan
@@ -15556,7 +15556,7 @@ Silmälläpidettävillä (NT) lajeilla taantumisen syyt ja
 tulevaisuuden uhkatekijät ovat samansuuntaisia kuin
 uhanalaisilla lajeilla. Tärkeimpiä ovat metsäelinympäristöjen muutokset, jotka ovat syynä ja uhkana 29 %:lle
 lajeista, avoimien alueiden sulkeutuminen on syynä
-Kovakuoriaiset • Coleoptera
+Kovakuoriaiset   Coleoptera
 26 %:lle ja uhkana 29 %:lle ja rakentaminen vastaavasti 14 %:lle ja 17 %:lle. Silmälläpidettävistä lajeista (NT)
 29 %:n taantumisen syytä ei tunneta.
 Punaiselta listalta poistettiin 88 lajia (taulukko 86).
@@ -15639,7 +15639,7 @@ joista monet on kuvattu alalajeina. Suomessa on tavattu
 seitsemän kärsäkorentolajia, joista kuusi kuuluu skorpionikorentoihin ja yksi, lumikorento (Boreus westwoodi)
 heimoon Boreidae. Kärsäkorentoja (Mecoptera) on perinteisesti tarkasteltu yhdessä verkkosiipisten kanssa, mutPetri Ahlroth
 Verkkosiipiset, kaislakorennot, käärmekorennot
-ja kärsäkorennot • Neuroptera, Megaloptera,
+ja kärsäkorennot   Neuroptera, Megaloptera,
 Raphidioptera and Mecoptera
 Neuroptera, Megaloptera, Raphidioptera & Mecoptera
 ta nykyisin niiden katsotaan kuitenkin olevan verraten
@@ -15764,7 +15764,7 @@ rakenteellisesti kuin elintavoiltaankin, joten ne käsitellään uhanalaisuusarv
 Peters ym. (2017) arvioivat pistiäisten kehittyneen permikaudella noin 281 miljoonaa vuotta sitten. Kätköpistiäiset ilmaantuivat maapallolle jurakauden alussa noin
 200 miljoonaa vuotta sitten ja myrkkypistiäiset runsaat
 Ilkka Teräs
-Pistiäiset • Sawflies, wasps, bees and ants
+Pistiäiset   Sawflies, wasps, bees and ants
 Hymenoptera
 160 miljoonaa vuotta sitten (Branstetter ym. 2017). Nykyään pistiäisiä tavataan lähes kaikkialla maapallolla.
 Ne ovat sekä ulkomuodoltaan että elintavoiltaan erittäin monimuotoisia. Suurimpien lajien pituus voi olla
@@ -15804,7 +15804,7 @@ Suomen Lajitietokeskuksen pistiäisluettelon mukaan
 Suomesta on tavattu vuoden 2018 puoliväliin mennessä
 yhteensä 754 sahapistiäislajia (Suomen Lajitietokeskus
 Juho Paukkunen, Matti Viitasaari, Marko Mutanen & Martti Raekunnas
-Sahapistiäiset • Sawflies
+Sahapistiäiset   Sawflies
 Symphyta
 2018) (taulukko 90). Luku on jonkin verran pienempi
 kuin aiemmassa arvioinnissa (791 lajia), koska tuolloin
@@ -15932,7 +15932,7 @@ maailmanlaajuisesti kuin Suomessakin. Suomen Lajitietokeskuksen nimistöluettelo
 vuoden 2018 kesäkuuhun mennessä tavatusta 7 510 pistiäislajista 6 084 (81 %) lukeutuu kätköpistiäisiin. Lajien
 Gergely Várkonyi, Martti Koponen, Juuso Paappanen, Ika Österblad, Niclas Fritzén,
 Reijo Jussila, Juho Paukkunen & Veli Vikberg
-Kätköpistiäiset • Parasitoid wasps
+Kätköpistiäiset   Parasitoid wasps
 Parasitica
 lukumäärä on kuitenkin vain suuntaa antava, sillä Suomen faunalle uusia kätköpistiäislajeja löydetään vuosittain useita kymmeniä, joinakin vuosina jopa toistasataa.
 Nykyaikaiset taksonomiset tutkimukset ovat selkeyttäneet lajien erottamisen perusteita, minkä seurauksena
@@ -16125,7 +16125,7 @@ Suomessa viimeisen vuosikymmenen aikana. Kultapistiäisiä (Chrysididae) käsitt
 tarkistettu ja digitoitu lähes kaikki Suomen kultapistiäiskokoelmat, ja valmisteltu niiden pohjalta tieteellisiä
 Juho Paukkunen, Juuso Paappanen, Reima Leinonen, Pekka Punttila, Juha Pöyry,
 Martti Raekunnas, Ilkka Teräs, Kari Vepsäläinen & Veli Vikberg
-Myrkkypistiäiset • Stinging wasps, Bees and Ants
+Myrkkypistiäiset   Stinging wasps, Bees and Ants
 Aculeata
 artikkeleita (esim. Paukkunen ym. 2015, Paukkunen ym.
 2018). Kimalaisista on valmistunut määritysopas (Parkkinen ym. 2018) ja niitä on käsitelty muutamissa väitöskirjoissa (esim. Korpela 2014, Vesterlund 2015, Toivonen
@@ -16322,7 +16322,7 @@ ja julkaisemattomista havaintotiedoista koostuva laaja
 tietokanta on ollut merkittävänä apuvälineenä arviointityössä. Tämän avulla on kullekin lajille voitu ainakin
 karkeasti arvioida levinneisyys- ja esiintymisalue. Monien harvinaisimpien lajien esiintymiä on tarkastettu ja
 Juha Salokannel, Jari Ilmonen, Pekka Majuri, Aki Rinne & Jukka Salmela
-Vesiperhoset • Caddisflies
+Vesiperhoset   Caddisflies
 Trichoptera
 uusia esiintymiä etsitty 2000-luvulla aktiivisesti, joten
 niiden tuntemus on kohentunut tyydyttävälle tasolle.
@@ -16397,7 +16397,7 @@ lajien hyönteistietokantaan tallennetut havainnot tulisi
 tarkistaa systemaattisesti ensi tilassa.
 Kari Nupponen, Marko Nieminen, Jari-Pekka Kaitila, Petri Hirvonen, Reima Leinonen, Hannu Koski,
 Jaakko Kullberg, Erkki Laasonen, Juha Pöyry, Tatu Sallinen & Panu Välimäki
-Perhoset • Butterflies and Moths
+Perhoset   Butterflies and Moths
 Lepidoptera
 Perhoslajiston tuntemuksen taso on Suomessa yleisesti ottaen erinomainen, ja selkeästi paras eteläisimmässä Suomessa (pl. Ahvenanmaa). Tietämyksen taso
 heikkenee kohti pohjoista Metsä-Lappiin asti, mutta
@@ -16465,7 +16465,7 @@ Uhanalaisuus
 Arvioiduista 2 362 taksonista Punaiselle listalle luokiteltiin 30,3 % (taulukko 102). Hävinneiksi (RE) arvioitiin
 20 taksonia ja uhanalaisiksi (CR–VU) 421 (taulukko 103).
 Silmälläpidettäviä (NT) taksoneja on 261 ja puutteellisesti tunnettuja (DD) 14. Uhanalaisten (CR–VU) taksonien
-Perhoset • Lepidoptera
+Perhoset   Lepidoptera
 472
 .
 määrä kasvoi 43:lla edelliseen arviointiin (Kaitila ym.
@@ -16651,7 +16651,7 @@ sekä lajimäärältään että biomassaltaan tärkeimpiä pohjaeläimiä useimm
 toukat elävät kaikenkokoisissa virtavesissä mitättömistä
 suo- tai sulavesinoroista suurjokiin. Useimmat mäkärälajit ovat kuitenkin erikoistuneet vain tietyn kokoluokan
 Jukka Salmela, Jevgeni Jakovlev, Lauri Paasivirta, Jari Ilmonen, Iiro Kakko & Antti Haarto
-Sääsket • Thread-horned flies
+Sääsket   Thread-horned flies
 Diptera: Nematocera
 virtavesiin. Sulkahyttysten (Chaoboridae) toukat elävät
 seisovissa vesissä, erityisesti kalattomissa lammissa.
@@ -16705,7 +16705,7 @@ kangasmetsien lajeissa on eräitä Suomen harvinaisimpia vaaksiaisia, kuten jalo
 (Ctenophora pectinicornis) ja hävinneeksi luokiteltu juovajalokirsikäs (C. flaveolata). Harvinainen salokärsäkirsikäs
 (Elephantomyia edwardsi) on kasvatettu lahokuusilta, haapanokikirsikäs (Gnophomyia acheron) ja aarninokikirsikäs
 (G. viridipennis) on tavattu vain lahohaavoilta. Pohjoinen
-Sääsket • Diptera: Nematocera
+Sääsket   Diptera: Nematocera
 516
 .
 metsälaji on outaruskokirsikäs (Limonia messaurea), joka
@@ -16803,7 +16803,7 @@ on Suomessa tällä hetkellä pääosin harrastajavetoista.
 Uhanalaisuuden arvioinnin kannalta käyttökelpoisia
 lajiston pitkäaikaisseurantoja ei ole olemassa; tietomme Suomen kärpäslajistosta koostuu yksittäisistä lajihavainnoista ja paikallisista faunistisista tutkimuksista,
 Antti Haarto, Jere Kahanpää, Iiro Kakko, Jaakko Pohjoismäki & Kaj Winqvist
-Kärpäset • True flies
+Kärpäset   True flies
 Diptera: Brachycera
 joihin ei yleensä liity seurantaa. Havaintoaktiviteetti
 on vaihdellut voimakkaasti vuosikymmenien kuluessa;
@@ -16963,7 +16963,7 @@ näiden muotojen suomenkielisiä nimiä (Kaukoranta ym.
 ym. 2010). Uusina muotoina erotettiin kuitenkin edelleen sisävesissä elävät karisiikatyyppinen sisävesisiika ja
 sisävesien vaellussiika vastaavista meressä esiintyvistä
 Lauri Urho, Marja-Liisa Koljonen, Ari Saura, Ari Savikko, Lari Veneranta & Aki Janatuinen
-Kalat • Fish
+Kalat   Fish
 Pisces
 muodoista. Arvioinnissa käytetyt taksonomiset tasot,
 ekomuodot tai alueelliset rajaukset on valittu siten, että
@@ -17034,7 +17034,7 @@ ottaa huomioon tässä tarkastelussa. Luonnonvaraisen
 tuotannon palautumista korkeammalle tasolle ei ole tapahtunut, kuin niissä joissa, missä nousuesteitä ei ole tai
 ne on ohitettu tai poistettu.
 Kalakantojen kasvulle kutupaikkojen ja poikasalueiden elinolosuhteet sekä pääsy kutupaikoille ovat kriitti-
-Kalat • Pisces
+Kalat   Pisces
 551
 .
 siä tekijöitä. Merestä jokiin kudulle nousevilla vaelluskaloilla joet ovat ainoita mahdollisia lisääntymisalueita, ja
@@ -17101,7 +17101,7 @@ Suomenlahteen laskevissa joissa oli jopa huomattavaa
 !"4$0'(()*'5#1403'&6'6/-7',"8"'49':",0;&39*
 <= >< =5 ?@ 5! AA B> 5C 5=
 +"$",D'E/-:0- F G H ) (I J GG (K I
-Kalat • Pisces
+Kalat   Pisces
 552
 .
 poikasmäärien lisääntymistä, esimerkiksi Ingarskilanjoella ja Vantaanjoen Longinojalla. Samoin Tornionjoen
@@ -17182,7 +17182,7 @@ lajikompleksin, jonka lajeja on tarkasteltu arvioinnissa
 itsenäisinä. Turusta on viime vuosilta havaintoja myös
 alppivesiliskosta (Ichthyosaura alpestris), ja vuoristokellosammakosta (Bombina variegata). Niin ikään Turun
 Jarmo Saarikivi, Markus Piha & Ulla-Maija Liukko
-Matelijat ja sammakkoeläimet • Reptiles and Amphibians
+Matelijat ja sammakkoeläimet   Reptiles and Amphibians
 Reptilia & Amphibia
 ja lähikuntien hiekkamailta on viime vuosina tavattu
 maalle uusi matelijalaji, hietasisilisko (Lacerta agilis). Lajien alkuperää tai tulotapaa Suomeen ei tiedetä, eikä sitä
@@ -17242,8 +17242,7 @@ että populaatiokoon pienentymisestä ei ole riittävästi
 näyttöä.
 Kaikkien lajien arviointia vaikeuttaa se, että kantojen
 koon muutoksista ei ole juurikaan tietoa saatavilla. Rupiliskon ja kangaskäärmeen luokitus perustuu pieniin
-ja eristyneisiin esiintymisalueisiin ja lisäksi molempien
-Matelijat ja sammakkoeläimet 
+ja eristyneisiin esiintymisalueisiin ja lisäksi molempien Matelijat ja sammakkoeläimet 
 lajien populaatiokoot on arvioitu pieniksi ja leviäminen
 hyvin rajoittuneeksi. Myös populaatioiden geneettinen
 koko on todennäköisesti molemmilla lajeilla erittäin
@@ -17309,7 +17308,7 @@ Huolimatta vuosikymmenien mittaisesta perinteestä arvioida lintujemme kantojen 
 tietämyksen taso on yhä parantunut edelliseen uhanalaisuusarviointiin verrattuna (Tiainen ym. 2016). Tämä on
 seurausta etenkin vuonna 2006 perustetusta vakiolinjojen laskentaverkostosta, joka on systemaattinen otos koAleksi Lehikoinen, Aili Jukarainen, Markku Mikkola-Roos, Antti Below, Teemu Lehtiniemi, Jorma Pessa,
 Ari Rajasärkkä, Jukka Rintala, Pekka Rusanen, Päivi Sirkiä, Juha Tiainen & Jari Valkama
-Linnut • Birds
+Linnut   Birds
 Aves
 ko Suomen halki 25 km välein. Verkoston perustaminen
 on sekä parantanut otantaa että kasvattanut vuosittaisia
@@ -17489,7 +17488,7 @@ ehdottamaa nimiluetteloa.
 Nisäkkäät tunnetaan moneen muuhun eliöryhmään
 verrattuna erittäin hyvin. Päivittyvää tietoa esimerkiksi
 lajien runsaudesta ja levinneisyydestä kerätään aktiivisesti silti vain osasta lajeja. Tilanne ei ole siltä osin muuttunut edelliseen vuoden 2015 arviointiin verrattuna. TieUlla-Maija Liukko, Heikki Henttonen, Kaarina Kauhala, Ilpo Kojola, Eeva-Maria Kyheröinen & Janne Pitkänen
-Nisäkkäät • Mammals
+Nisäkkäät   Mammals
 Mammalia
 toa tuotetaan erityisesti metsästettävistä riistalajeista,
 uhanalaisimmista lajeista, joistakin pikkunisäkkäistä
@@ -17506,7 +17505,7 @@ ym. 2016, Liukkonen ym. 2017).
 Rakennus-, kaavoitus- yms. hankkeisiin liittyviä
 luonto- ja lajistoselvityksiä tehdään runsaasti. Niissä on
 nisäkäslajeista yleensä mukana ainakin luontodirektiivin liitteen IV tiukasti suojellut lajit, erityisesti lepakot,
-Nisäkkäät • Mammalia
+Nisäkkäät   Mammalia
 572
 .
 liito-orava ja saukko. Selvityksissä tuotettuja havaintotietoja ei yleensä julkaista eikä varsinkaan koota digitoituna yhteen paikkaan, joten aineistoja ei pystytä
@@ -17669,7 +17668,7 @@ uudelleenorganisoitu keväästä 2015 lähtien. Luonnonvarakeskuksen yhteen vet�
 analyyseihin esimerkiksi suhteessa ilmastonmuutokseen (Korpela ym. 2013 ja 2014). Vuosikymmenien seurannoista ilmenee, miten lyhyemmän 3–4-vuotisen vaihtelun yllä on myös pidempiaikaisia trendejä ja alueellisia
 muutoksia. Suomen lounaisella merialueella aloitettiin
 vuonna 2016 pyöriäisten akustinen seuranta Itämeren
-Nisäkkäät • Mammalia
+Nisäkkäät   Mammalia
 575
 .
 tutkimushankkeesta vapautuneilla laitteilla. Itämerennorppakantaa seurataan vuosittaisilla laskennoilla
@@ -17719,7 +17718,7 @@ Liite 1
 IUCN:n uhanalaisuusluokat
 (IUCN 2012 a ja b, 2016) sekä kansallisesta arviointioppaasta (Liukko ym. 2017). Luokittelun perusteena käytettävät kriteerit esitellään liitteessä 2.
 Suomen Punaisessa kirjassa 2019 käytettyjen luokkien määritelmät tiivistetysti
-Liite 1 • Appendix 1
+Liite 1   Appendix 1
 670
 .
 Alueellisen arvioinnin uhanalaisuusluokat
@@ -17792,7 +17791,7 @@ voi täyttää luokan NT vaatimukset myös silloin, kun laji
 tai sen elinympäristö on kyseiseen lajiin kohdistettujen
 suojelutoimien kohteena ja toimien lakkaaminen nostaisi uhanalaisuusluokkaa yhdellä viidessä vuodessa.
 Luokituksen perusteluissa tulee silloin näkyä, että laji
-Liite 1 • Appendix 1
+Liite 1   Appendix 1
 671
 .
 on luokassa NT, koska se on suojelusta riippuvainen.
@@ -17847,22 +17846,22 @@ että lajilla ei ole alueella luonnonvaraisia populaatioita
 (alueen ulkopuolella on) tai että se ei ole luontaisella
 levinneisyysalueellaan tai se esiintyy alueella vain satunnaisena vierailijana (IUCN 2012a).
 Suomessa arviointiin soveltumattomiksi (NA) katsotaan:
-• Luontaisesti leviämässä olevat uudet lajit. Ne
+  Luontaisesti leviämässä olevat uudet lajit. Ne
 kuuluvat luokkaan NA siihen asti, kunnes ne ovat
 selvästi vakiintuneet ja ovat lisääntyneet alueella
 usean vuoden ajan (tyypillisesti ainakin kymmenen
 peräkkäisen vuoden ajan).
-• Vuoden 1800 jälkeen ihmisen tarkoituksella tai
+  Vuoden 1800 jälkeen ihmisen tarkoituksella tai
 tahattomasti Suomeen siirtämät ja luontoon vakiintuneet lajit eli ns. vieraslajit.
-• Yksinomaan vieraslajeilla elävät lajit (sienet, hyönteiset jne.). Ne voivat olla Suomeen luontaisesti
+  Yksinomaan vieraslajeilla elävät lajit (sienet, hyönteiset jne.). Ne voivat olla Suomeen luontaisesti
 levinneitä, mutta eivät voisi esiintyä täällä ilman
 vierasperäistä isäntälajia.
-• Satunnaisesti Suomessa tavattavat lajit.
-• Sellaiset lajit, joista ei yksittäisten havaintojen
+  Satunnaisesti Suomessa tavattavat lajit.
+  Sellaiset lajit, joista ei yksittäisten havaintojen
 perusteella pystytä sanomaan, esiintyykö se täällä
 vakituisesti (joissakin tapauksissa rajanveto puutteellisesti tunnettuihin tai hävinneisiin voi olla
 hankala).
-Liite 1 • Appendix 1
+Liite 1   Appendix 1
 672
 .
 Arvioimatta jätetyt (NE; Not Evaluated)
@@ -17912,7 +17911,7 @@ Kriteeri jaetaan neljään alakriteeriin. A1- ja A2-alakriteereissä tarkasteluj
 alakriteerissä tarkastelujaksoon otetaan sekä mennyttä
 että tulevaa. Tulevaisuuden ennustamiseen suositellaan
 kuitenkin suhtauduttavan hyvin kriittisesti.
-Liite 2 • Appendix 2
+Liite 2   Appendix 2
 674
 .
 A-kriteerissä määritellään perustuuko väheneminen
@@ -17961,7 +17960,7 @@ c. erittäin suuret vaihtelut joissakin seuraavista:
  (iv) lisääntymiskykyisten yksilöiden määrä.
 Kriteeri B: Maantieteellinen alue tarkasteltuna joko levinneisyysalueen (B1)
 TAI esiintymisalueen (B2) TAI molempien mukaan:
-Liite 2 • Appendix 2
+Liite 2   Appendix 2
 675
 .
 Kriteeri B on suunniteltu tunnistamaan lajit, joilla on
@@ -18005,7 +18004,7 @@ toisiinsa yhteydessä eikä tällaista pidä tulkita yhdeksi
 osapopulaatioksi.
 käytettäessä on huomattava, että levinneisyys- tai esiintymisalueen raja-arvojen on ensin täytyttävä, minkä lisäksi vähintään kahden kolmesta (a–c) vaihtoehdosta on
 täytyttävä (IUCN 2016).
-Liite 2 • Appendix 2
+Liite 2   Appendix 2
 676
 .
 D-kriteeri: Hyvin pieni populaatiokoko tai erittäin rajoittunut esiintyminen
@@ -18093,7 +18092,7 @@ ottamaan huomioon muun muassa lajin leviämiskyky.
 Jatkuva taantuminen (kriteerit B, C) on äskettäistä, tämänhetkistä tai ennustettua tulevaisuudessa tapahtuvaa
 taantumista, joka todennäköisesti jatkuu, ellei korjaavia
 toimia tehdä. Kannanvaihteluita ei yleensä tulkita jat-
-Liite 3 • Appendix 3
+Liite 3   Appendix 3
 679
 .
 kuvaksi taantumiseksi, mutta havaittua vähenemistä ei
@@ -18135,24 +18134,24 @@ siemen, muna, toukka; ei kuitenkaan sukusolu tai siitepöly).
 Lisääntymiskykyinen yksilö on yksilö, jonka tiedetään,
 arvioidaan tai päätellään kykenevän lisääntymään. Lisääntymiskykyisten yksilöiden määrää arvioitaessa on
 otettu huomioon seuraavat asiat:
-• Nuoria (juveniilit) tai lisääntymisen lopettaneita
+  Nuoria (juveniilit) tai lisääntymisen lopettaneita
 yksilöitä ei ole laskettu lisääntymiskykyisiksi yksilöiksi.
-• Mukaan ei lasketa täysikasvuisia, lisääntymiskykyisiä yksilöitä, jotka eivät kuitenkaan voi
+  Mukaan ei lasketa täysikasvuisia, lisääntymiskykyisiä yksilöitä, jotka eivät kuitenkaan voi
 tuottaa jälkeläisiä (esim. populaation tiheys on liian
 alhainen hedelmöittymiselle).
-• Populaatioissa, joiden sukupuolijakaumat ovat
+  Populaatioissa, joiden sukupuolijakaumat ovat
 vinoutuneet, lisääntymiskykyisten yksilöiden
 määrästä on käytetty jakauman vinouden huomioon
 ottavaa alempaa arviota.
-• Populaatiokoon vaihdellessa suuresti on käytetty
+  Populaatiokoon vaihdellessa suuresti on käytetty
 alempaa arviota. Se on usein selvästi alhaisempi
 kuin populaation keskimääräinen koko.
-• Kloonin lisääntyvät yksiköt on laskettu kuten yksilöt, paitsi silloin kun nämä yksiköt eivät selviydy
+  Kloonin lisääntyvät yksiköt on laskettu kuten yksilöt, paitsi silloin kun nämä yksiköt eivät selviydy
 yksin.
-• Tapauksissa, joissa laji menettää luontaisesti kaikki
+  Tapauksissa, joissa laji menettää luontaisesti kaikki
 tai osan lisääntymiskykyisistä yksilöistä jossakin
 elämänkiertonsa vaiheessa, arvio tulee tehdä sellaisena aikana, jolloin lisääntyviä yksilöitä esiintyy.
-• Palautusistutettujen yksilöiden on pitänyt tuottaa
+  Palautusistutettujen yksilöiden on pitänyt tuottaa
 elinkykyisiä jälkeläisiä ennen kuin ne voidaan laskea mukaan populaation kokoon.
 Yksilömääritelmä ja arviointikriteerit, joissa käytetään
 lisääntymiskykyisten yksilöiden määrää eli populaatiokokoa (C, D1), soveltuvat parhaiten selkärankaisille eläimille. Toisin kuin selkärankaisten eläinten tai
@@ -18166,7 +18165,7 @@ näidenkin eliöiden kohdalla lisääntymiskykyisen yksilön määrittely on tä
 käyttää. Yleissääntö on, että lisääntymiskykyinen yksilö
 on pienin kokonaisuus, joka voi selviytyä itsenäisesti
 ja kykenee suvulliseen tai suvuttomaan lisääntymiseen
-Liite 3 • Appendix 3
+Liite 3   Appendix 3
 680
 .
 (rameetti, kasvusto). Eliön esiintyessä selvästi erottuvina
@@ -18227,7 +18226,7 @@ määritellyn ajan kuluessa. Vähenemisen ei tarvitse olla
 jatkuvaa. Vähenemistä ei tule tulkita osaksi luontaista
 kannanvaihtelua, ellei siitä ole riittäviä todisteita. Luontaiseen kannanvaihteluun kuuluvaa laskuvaihetta ei
 yleensä tulkita populaatiokoon pienenemiseksi.
-Liite 3 • Appendix 3
+Liite 3   Appendix 3
 681
 .
 Punaisen listan lajit (red-listed species) ovat hävinneiksi

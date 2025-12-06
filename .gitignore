@@ -6,6 +6,7 @@ __pycache__/
 # Supporting files
 sanamäärä.py
 pylint_temp.txt
+data/testidata.txt
 
 # C extensions
 *.so
